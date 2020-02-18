@@ -1,0 +1,6 @@
+#!/usr/bin/fish
+
+set DRAGONRUBY_PATH $HOME/Programs/DragonRuby/dragonruby-31
+
+$DRAGONRUBY_PATH/dragonruby .
+

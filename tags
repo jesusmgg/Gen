@@ -1,0 +1,1165 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+*	./dragon/numeric.rb	/^  def * other$/;"	f	class:Fixnum
+*	./dragon/numeric.rb	/^  def * other$/;"	f	class:Float
+*	./dragon/numeric.rb	/^  def * other$/;"	f	class:Numeric
++	./dragon/array.rb	/^  def + other$/;"	f	class:Array.product
++	./dragon/nil_class_false_class.rb	/^  def + other$/;"	f	class:NilClassFalseClass
++	./dragon/numeric.rb	/^  def + other$/;"	f	class:Fixnum
++	./dragon/numeric.rb	/^  def + other$/;"	f	class:Float
++	./dragon/numeric.rb	/^  def + other$/;"	f	class:Numeric
++	./dragon/outputs_deprecated.rb	/^    def + other$/;"	f	class:GTK.FlatArrayDeprecated
+-	./dragon/numeric.rb	/^  def - other$/;"	f	class:Fixnum
+-	./dragon/numeric.rb	/^  def - other$/;"	f	class:Float
+-	./dragon/numeric.rb	/^  def - other$/;"	f	class:Numeric
+/	./dragon/numeric.rb	/^  def \/ other$/;"	f	class:Fixnum
+/	./dragon/numeric.rb	/^  def \/ other$/;"	f	class:Float
+/	./dragon/numeric.rb	/^  def \/ other$/;"	f	class:Numeric
+<	./dragon/nil_class_false_class.rb	/^  def < other$/;"	f	class:NilClassFalseClass
+<	./dragon/numeric.rb	/^  def < other$/;"	f	class:Numeric
+<<	./dragon/array.rb	/^  def << other$/;"	f	class:Array.product
+<<	./dragon/outputs.rb	/^    def << other$/;"	f	class:GTK.FlatArray
+<=	./dragon/nil_class_false_class.rb	/^  def <= other$/;"	f	class:NilClassFalseClass
+<=	./dragon/numeric.rb	/^  def <= other$/;"	f	class:Numeric
+==	./dragon/numeric.rb	/^  def == other$/;"	f	class:Fixnum
+==	./dragon/numeric.rb	/^  def == other$/;"	f	class:Numeric
+==	./dragon/open_entity.rb	/^    def == other$/;"	f	class:GTK.OpenEntity
+>	./dragon/nil_class_false_class.rb	/^  def > other$/;"	f	class:NilClassFalseClass
+>	./dragon/numeric.rb	/^  def > other$/;"	f	class:Numeric
+>=	./dragon/nil_class_false_class.rb	/^  def >= other$/;"	f	class:NilClassFalseClass
+>=	./dragon/numeric.rb	/^  def >= other$/;"	f	class:Numeric
+Args	./dragon/args.rb	/^  class Args$/;"	c	class:GTK
+ArgsDeprecated	./dragon/args_deprecated.rb	/^  module ArgsDeprecated$/;"	m	class:GTK
+Array	./dragon/array.rb	/^class Array$/;"	c
+ArrayDeprecated	./dragon/array_deprecated.rb	/^module ArrayDeprecated$/;"	m
+Assert	./dragon/assert.rb	/^  class Assert$/;"	c	class:GTK
+AttrGTK	./dragon/attr_gtk.rb	/^module AttrGTK$/;"	m
+AttrSprite	./dragon/attr_sprite.rb	/^module AttrSprite$/;"	m
+BareDefinitionsContainer	./dragon/object.rb	/^class BareDefinitionsContainer$/;"	c
+Border	./dragon/primitive.rb	/^    module Border$/;"	m	class:GTK
+Class	./dragon/class.rb	/^class Class$/;"	c
+Color	./dragon/primitive.rb	/^    module Color$/;"	m	class:GTK
+Common	./dragon/primitive.rb	/^    module Common$/;"	m	class:GTK.Primitive
+Console	./dragon/console.rb	/^  class Console$/;"	c	class:GTK
+Controller	./dragon/inputs.rb	/^  class Controller$/;"	c	class:GTK
+ControllerConfig	./dragon/controller_config.rb	/^  class ControllerConfig$/;"	c	class:GTK
+ControllerKeys	./dragon/inputs.rb	/^  class ControllerKeys$/;"	c	class:GTK
+ConversionCapabilities	./dragon/primitive.rb	/^    module ConversionCapabilities$/;"	m	class:GTK
+Determined	./dragon/primitive.rb	/^    module Determined$/;"	m	class:GTK
+DirectionalInputHelperMethods	./dragon/directional_input_helper_methods.rb	/^  module DirectionalInputHelperMethods$/;"	m	class:GTK
+Docs	./dragon/docs.rb	/^  class Docs$/;"	c	class:GTK
+Easing	./dragon/easing.rb	/^  module Easing$/;"	m	class:GTK
+Entity	./dragon/entity.rb	/^  class Entity$/;"	c	class:GTK
+FalseClass	./dragon/nil_class_false_class.rb	/^class FalseClass$/;"	c
+Fixnum	./dragon/numeric.rb	/^class Fixnum$/;"	c
+FlatArray	./dragon/outputs.rb	/^  class FlatArray < Array$/;"	c	class:GTK
+FlatArrayDeprecated	./dragon/outputs_deprecated.rb	/^  module FlatArrayDeprecated$/;"	m	class:GTK
+Float	./dragon/numeric.rb	/^class Float$/;"	c
+GTK	./dragon/args.rb	/^module GTK$/;"	m
+GTK	./dragon/args_deprecated.rb	/^module GTK$/;"	m
+GTK	./dragon/assert.rb	/^module GTK$/;"	m
+GTK	./dragon/console.rb	/^module GTK$/;"	m
+GTK	./dragon/controller_config.rb	/^module GTK$/;"	m
+GTK	./dragon/directional_input_helper_methods.rb	/^module GTK$/;"	m
+GTK	./dragon/docs.rb	/^module GTK$/;"	m
+GTK	./dragon/easing.rb	/^module GTK$/;"	m
+GTK	./dragon/entity.rb	/^module GTK$/;"	m
+GTK	./dragon/geometry.rb	/^module GTK$/;"	m
+GTK	./dragon/grid.rb	/^module GTK$/;"	m
+GTK	./dragon/help.rb	/^module GTK$/;"	m
+GTK	./dragon/inputs.rb	/^module GTK$/;"	m
+GTK	./dragon/log.rb	/^module GTK$/;"	m
+GTK	./dragon/open_entity.rb	/^module GTK$/;"	m
+GTK	./dragon/outputs.rb	/^module GTK$/;"	m
+GTK	./dragon/outputs_deprecated.rb	/^module GTK$/;"	m
+GTK	./dragon/primitive.rb	/^module GTK$/;"	m
+GTK	./dragon/primitive_deprecated.rb	/^module GTK$/;"	m
+GTK	./dragon/recording.rb	/^module GTK$/;"	m
+GTK	./dragon/runtime.rb	/^module GTK$/;"	m
+GTK	./dragon/runtime_c_bridge.rb	/^module GTK$/;"	m
+GTK	./dragon/runtime_deprecated.rb	/^module GTK$/;"	m
+GTK	./dragon/runtime_draw.rb	/^module GTK$/;"	m
+GTK	./dragon/runtime_framerate.rb	/^module GTK$/;"	m
+GTK	./dragon/runtime_hotload.rb	/^module GTK$/;"	m
+GTK	./dragon/strict_entity.rb	/^module GTK$/;"	m
+GTK	./dragon/tests.rb	/^module GTK$/;"	m
+GTK	./dragon/trace.rb	/^module GTK$/;"	m
+Geometry	./dragon/geometry.rb	/^  module Geometry$/;"	m	class:GTK
+Grid	./dragon/grid.rb	/^  class Grid$/;"	c	class:GTK
+HTTPCallbacks	./dragon/runtime.rb	/^    class HTTPCallbacks$/;"	c	class:GTK.Runtime
+Hash	./dragon/hash.rb	/^class Hash$/;"	c
+Help	./dragon/help.rb	/^  class Help$/;"	c	class:GTK
+Inputs	./dragon/inputs.rb	/^  class Inputs$/;"	c	class:GTK
+Kernel	./dragon/kernel.rb	/^module Kernel$/;"	m
+Keyboard	./dragon/inputs.rb	/^  class Keyboard$/;"	c	class:GTK
+KeyboardKeys	./dragon/inputs.rb	/^  class KeyboardKeys$/;"	c	class:GTK
+Label	./dragon/primitive.rb	/^    module Label$/;"	m	class:GTK
+Line	./dragon/primitive.rb	/^    module Line$/;"	m	class:GTK
+Log	./dragon/log.rb	/^  class Log$/;"	c	class:GTK
+Mouse	./dragon/inputs.rb	/^  class Mouse$/;"	c	class:GTK
+MousePoint	./dragon/inputs.rb	/^  class MousePoint$/;"	c	class:GTK
+NIL	./dragon/object.rb	/^class NIL$/;"	c
+NilClass	./dragon/nil_class_false_class.rb	/^class NilClass$/;"	c
+NilClassFalseClass	./dragon/nil_class_false_class.rb	/^module NilClassFalseClass$/;"	m
+Numeric	./dragon/numeric.rb	/^class Numeric$/;"	c
+NumericDeprecated	./dragon/numeric_deprecated.rb	/^module NumericDeprecated$/;"	m
+Object	./dragon/log.rb	/^class Object$/;"	c
+Object	./dragon/object.rb	/^class Object$/;"	c
+ObjectMetadata	./dragon/object.rb	/^class ObjectMetadata$/;"	c
+OpenEntity	./dragon/open_entity.rb	/^  class OpenEntity$/;"	c	class:GTK
+Outputs	./dragon/outputs.rb	/^  class Outputs   # Each Outputs is a single render pass to a render target (or the window framebuffer).$/;"	c	class:GTK
+OutputsDeprecated	./dragon/outputs_deprecated.rb	/^  module OutputsDeprecated$/;"	m	class:GTK
+Point	./dragon/primitive.rb	/^    module Point$/;"	m	class:GTK.Primitive
+Primitive	./dragon/primitive.rb	/^  module Primitive$/;"	m	class:GTK
+Primitive	./dragon/primitive_deprecated.rb	/^  module Primitive$/;"	m	class:GTK
+Recording	./dragon/recording.rb	/^  class Recording$/;"	c	class:GTK
+Rect	./dragon/primitive.rb	/^    module Rect$/;"	m	class:GTK
+RectDeprecated	./dragon/primitive_deprecated.rb	/^    module RectDeprecated$/;"	m	class:GTK.Primitive
+Runtime	./dragon/runtime.rb	/^  class Runtime$/;"	c	class:GTK
+RuntimeCBridge	./dragon/runtime_c_bridge.rb	/^  module RuntimeCBridge$/;"	m	class:GTK
+RuntimeDeprecated	./dragon/runtime_deprecated.rb	/^  module RuntimeDeprecated$/;"	m	class:GTK
+RuntimeDraw	./dragon/runtime_draw.rb	/^  module RuntimeDraw$/;"	m	class:GTK
+RuntimeFramerate	./dragon/runtime_framerate.rb	/^  module RuntimeFramerate$/;"	m	class:GTK
+RuntimeHotload	./dragon/runtime_hotload.rb	/^  module RuntimeHotload$/;"	m	class:GTK
+Serialize	./dragon/serialize.rb	/^module Serialize$/;"	m
+Solid	./dragon/primitive.rb	/^    module Solid$/;"	m	class:GTK
+Sound	./dragon/outputs.rb	/^  class Sound$/;"	c	class:GTK
+Sprite	./dragon/primitive.rb	/^    module Sprite$/;"	m	class:GTK
+StrictEntity	./dragon/strict_entity.rb	/^  class StrictEntity$/;"	c	class:GTK
+String	./dragon/string.rb	/^class String$/;"	c
+Symbol	./dragon/symbol.rb	/^class Symbol$/;"	c
+Tests	./dragon/tests.rb	/^  class Tests$/;"	c	class:GTK
+Trace	./dragon/trace.rb	/^  module Trace$/;"	m	class:GTK
+TrueClass	./dragon/nil_class_false_class.rb	/^class TrueClass$/;"	c
+ValueType	./dragon/object.rb	/^module ValueType$/;"	m
+[]	./dragon/outputs.rb	/^    def [] *args$/;"	f	class:GTK.FlatArray
+__borders=	./dragon/outputs.rb	/^    def __borders= value$/;"	f	class:GTK.Outputs
+__caller_without_noise__	./dragon/object.rb	/^  def __caller_without_noise__$/;"	f	class:Object
+__check_thrash__!	./dragon/nil_class_false_class.rb	/^  def __check_thrash__! m$/;"	f	class:NilClassFalseClass
+__custom_object_methods__	./dragon/object.rb	/^  def __custom_object_methods__$/;"	f	class:method_missing
+__get_color_from_array_or_primitive	./dragon/hash.rb	/^  def __get_color_from_array_or_primitive v, rgba_symbol$/;"	f	class:Hash
+__get_hash_property__	./dragon/open_entity.rb	/^    def __get_hash_property__ name$/;"	f	class:GTK.OpenEntity
+__gtk_ruby_source_files__	./dragon/object.rb	/^  def __gtk_ruby_source_files__$/;"	f	class:Object
+__gtk_ruby_string_contains_source_file_path__?	./dragon/object.rb	/^  def __gtk_ruby_string_contains_source_file_path__? s$/;"	f	class:Object
+__labels=	./dragon/outputs.rb	/^    def __labels= value$/;"	f	class:GTK.Outputs
+__lines=	./dragon/outputs.rb	/^    def __lines= value$/;"	f	class:GTK.Outputs
+__meta__	./dragon/object.rb	/^  def self.__meta__$/;"	F	class:ObjectMetadata
+__meta__	./dragon/open_entity.rb	/^    def __meta__$/;"	f	class:GTK.OpenEntity
+__object_methods__	./dragon/object.rb	/^  def __object_methods__$/;"	f	class:method_missing
+__pretty_print_exception__	./dragon/object.rb	/^  def __pretty_print_exception__ e, inner_exception = nil$/;"	f	class:Object
+__primitives=	./dragon/outputs.rb	/^    def __primitives= value$/;"	f	class:GTK.Outputs
+__raise_deprecated__	./dragon/outputs_deprecated.rb	/^    def __raise_deprecated__ prop$/;"	f	class:GTK.OutputsDeprecated
+__reserved=	./dragon/outputs.rb	/^    def __reserved= value$/;"	f	class:GTK.Outputs
+__reserved_keys__	./dragon/open_entity.rb	/^    def __reserved_keys__$/;"	f	class:GTK.OpenEntity
+__set_hash_property__	./dragon/open_entity.rb	/^    def __set_hash_property__ name, args$/;"	f	class:GTK.OpenEntity
+__solids=	./dragon/outputs.rb	/^    def __solids= value$/;"	f	class:GTK.Outputs
+__sprites=	./dragon/outputs.rb	/^    def __sprites=$/;"	f	class:GTK.Outputs
+__static_borders=	./dragon/outputs.rb	/^    def __static_borders= value$/;"	f	class:GTK.Outputs
+__static_labels=	./dragon/outputs.rb	/^    def __static_labels= value$/;"	f	class:GTK.Outputs
+__static_lines=	./dragon/outputs.rb	/^    def __static_lines= value$/;"	f	class:GTK.Outputs
+__static_primitives=	./dragon/outputs.rb	/^    def __static_primitives= value$/;"	f	class:GTK.Outputs
+__static_reserved=	./dragon/outputs.rb	/^    def __static_reserved= value$/;"	f	class:GTK.Outputs
+__static_solids=	./dragon/outputs.rb	/^    def __static_solids= value$/;"	f	class:GTK.Outputs
+__static_sprites=	./dragon/outputs.rb	/^    def __static_sprites= value$/;"	f	class:GTK.Outputs
+__supports_ivars__?	./dragon/object.rb	/^  def __supports_ivars__?$/;"	f	class:Object
+a	./dragon/hash.rb	/^  def a$/;"	f	class:Hash
+a	./dragon/primitive.rb	/^      def a$/;"	f	class:GTK.Color
+a	./dragon/primitive.rb	/^      def a$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+a	./dragon/primitive.rb	/^      def a$/;"	f	class:GTK.Label
+a	./dragon/primitive.rb	/^      def a$/;"	f	class:GTK.Sprite
+a=	./dragon/hash.rb	/^  def a= value$/;"	f	class:Hash
+a=	./dragon/primitive.rb	/^      def a= value$/;"	f	class:GTK.Color
+a=	./dragon/primitive.rb	/^      def a= value$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+a=	./dragon/primitive.rb	/^      def a= value$/;"	f	class:GTK.Label
+a=	./dragon/primitive.rb	/^      def a= value$/;"	f	class:GTK.Sprite
+above?	./dragon/numeric.rb	/^  def above? v$/;"	f	class:Numeric
+add	./dragon/numeric.rb	/^  def add i$/;"	f	class:Numeric
+add_dwim	./dragon/outputs.rb	/^    def add_dwim os$/;"	f	class:GTK.FlatArray
+addtext	./dragon/console.rb	/^    def addtext obj$/;"	f	class:GTK.Console
+alignment_enum	./dragon/hash.rb	/^  def alignment_enum$/;"	f	class:Hash
+alignment_enum	./dragon/primitive.rb	/^      def alignment_enum$/;"	f	class:GTK.Label
+alignment_enum=	./dragon/hash.rb	/^  def alignment_enum= value$/;"	f	class:Hash
+alignment_enum=	./dragon/primitive.rb	/^      def alignment_enum= value$/;"	f	class:GTK.Label
+all	./dragon/inputs.rb	/^    def all$/;"	f	class:GTK.KeyboardKeys
+all?	./dragon/inputs.rb	/^    def all? keys$/;"	f	class:GTK.KeyboardKeys
+all_borders	./dragon/outputs.rb	/^    def all_borders$/;"	f	class:GTK.Outputs
+all_labels	./dragon/outputs.rb	/^    def all_labels$/;"	f	class:GTK.Outputs
+all_lines	./dragon/outputs.rb	/^    def all_lines$/;"	f	class:GTK.Outputs
+all_primitives	./dragon/outputs.rb	/^    def all_primitives$/;"	f	class:GTK.Outputs
+all_reserved	./dragon/outputs.rb	/^    def all_reserved$/;"	f	class:GTK.Outputs
+all_solids	./dragon/outputs.rb	/^    def all_solids$/;"	f	class:GTK.Outputs
+all_sounds	./dragon/outputs.rb	/^    def all_sounds$/;"	f	class:GTK.Outputs
+all_sprites	./dragon/outputs.rb	/^    def all_sprites$/;"	f	class:GTK.Outputs
+analog_to_perc	./dragon/runtime_c_bridge.rb	/^    def analog_to_perc value$/;"	f	class:GTK.RuntimeCBridge
+anchor_rect	./dragon/geometry.rb	/^    def anchor_rect anchor_x, anchor_y$/;"	f	class:GTK.Geometry
+anchor_rect	./dragon/primitive.rb	/^      def anchor_rect anchor_x, anchor_y$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+and	./dragon/object.rb	/^  def and other$/;"	f	class:Object
+angle	./dragon/hash.rb	/^  def angle$/;"	f	class:Hash
+angle	./dragon/primitive.rb	/^      def angle$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+angle	./dragon/primitive.rb	/^      def angle$/;"	f	class:GTK.Sprite
+angle=	./dragon/hash.rb	/^  def angle= value$/;"	f	class:Hash
+angle=	./dragon/primitive.rb	/^      def angle= value$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+angle=	./dragon/primitive.rb	/^      def angle= value$/;"	f	class:GTK.Sprite
+angle_anchor_x	./dragon/hash.rb	/^  def angle_anchor_x$/;"	f	class:Hash
+angle_anchor_x	./dragon/primitive.rb	/^      def angle_anchor_x$/;"	f	class:GTK.Sprite
+angle_anchor_x=	./dragon/hash.rb	/^  def angle_anchor_x= value$/;"	f	class:Hash
+angle_anchor_x=	./dragon/primitive.rb	/^      def angle_anchor_x= value$/;"	f	class:GTK.Sprite
+angle_anchor_y	./dragon/hash.rb	/^  def angle_anchor_y$/;"	f	class:Hash
+angle_anchor_y	./dragon/primitive.rb	/^      def angle_anchor_y$/;"	f	class:GTK.Sprite
+angle_anchor_y=	./dragon/hash.rb	/^  def angle_anchor_y= value$/;"	f	class:Hash
+angle_anchor_y=	./dragon/primitive.rb	/^      def angle_anchor_y= value$/;"	f	class:GTK.Sprite
+angle_between_lines	./dragon/geometry.rb	/^    def self.angle_between_lines line_one, line_two, replace_infinity: nil$/;"	F	class:GTK
+angle_from	./dragon/geometry.rb	/^    def angle_from other_point$/;"	f	class:GTK.Geometry
+angle_from	./dragon/geometry.rb	/^    def self.angle_from start_point, end_point$/;"	F	class:GTK
+angle_from	./dragon/primitive.rb	/^      def angle_from other_point$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+angle_given_point	./dragon/geometry.rb	/^    def angle_given_point other_point$/;"	f	class:GTK.Geometry
+angle_given_point	./dragon/primitive.rb	/^      def angle_given_point other_point$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+angle_to	./dragon/geometry.rb	/^    def angle_to other_point$/;"	f	class:GTK.Geometry
+angle_to	./dragon/geometry.rb	/^    def self.angle_to start_point, end_point$/;"	F	class:GTK
+angle_to	./dragon/primitive.rb	/^      def angle_to other_point$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+any?	./dragon/inputs.rb	/^    def any? keys$/;"	f	class:GTK.KeyboardKeys
+any_intersect_rect?	./dragon/array.rb	/^  def any_intersect_rect? other, tolerance = 0.1$/;"	f	class:Array.product
+any_intersects_rect?	./dragon/array_deprecated.rb	/^  def any_intersects_rect? *args$/;"	f	class:ArrayDeprecated
+append_file	./dragon/runtime.rb	/^    def append_file file_name, text$/;"	f	class:GTK.Runtime
+assign_method_missing	./dragon/nil_class_false_class.rb	/^  def assign_method_missing hash, name, thrash_counter$/;"	f	class:NilClassFalseClass
+associate	./dragon/hash.rb	/^  def associate hash = nil$/;"	f	class:Hash
+associate	./dragon/object.rb	/^  def associate hash = nil$/;"	f	class:method_missing
+associate	./dragon/primitive.rb	/^      def associate hash = nil$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+associate	./dragon/primitive.rb	/^      def associate hash = nil$/;"	f	class:GTK.Primitive.Point
+at	./dragon/hash.rb	/^  def at$/;"	f	class:Hash
+at=	./dragon/hash.rb	/^  def at= value$/;"	f	class:Hash
+attr_gtk	./dragon/object.rb	/^  def self.attr_gtk$/;"	F	class:Object
+attr_sprite	./dragon/object.rb	/^  def self.attr_sprite$/;"	F	class:Object
+attributes	./dragon/open_entity.rb	/^    def attributes$/;"	f	class:GTK.OpenEntity
+b	./dragon/hash.rb	/^  def b$/;"	f	class:Hash
+b	./dragon/primitive.rb	/^      def b$/;"	f	class:GTK.Color
+b	./dragon/primitive.rb	/^      def b$/;"	f	class:GTK.Label
+b	./dragon/primitive.rb	/^      def b$/;"	f	class:GTK.Sprite
+b=	./dragon/hash.rb	/^  def b= value$/;"	f	class:Hash
+b=	./dragon/primitive.rb	/^      def b= value$/;"	f	class:GTK.Color
+b=	./dragon/primitive.rb	/^      def b= value$/;"	f	class:GTK.Label
+b=	./dragon/primitive.rb	/^      def b= value$/;"	f	class:GTK.Sprite
+below?	./dragon/numeric.rb	/^  def below? v$/;"	f	class:Numeric
+better_class_hierarchy_information	./dragon/object.rb	/^  def better_class_hierarchy_information$/;"	f	class:Object
+better_instance_information	./dragon/object.rb	/^  def better_instance_information$/;"	f	class:Object
+between?	./dragon/numeric.rb	/^  def between? n, n2$/;"	f	class:Numeric
+border	./dragon/hash.rb	/^  def border$/;"	f	class:Hash
+border	./dragon/primitive.rb	/^      def border$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+borders	./dragon/args.rb	/^    def borders$/;"	f	class:GTK.Args
+borders	./dragon/outputs.rb	/^    def borders$/;"	f	class:GTK.Outputs
+borders	./dragon/primitive.rb	/^      def borders$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+borders=	./dragon/outputs_deprecated.rb	/^    def borders= value$/;"	f	class:GTK.OutputsDeprecated
+bottom	./dragon/attr_sprite.rb	/^  def bottom$/;"	f	class:AttrSprite
+bottom	./dragon/hash.rb	/^  def bottom$/;"	f	class:Hash
+bottom	./dragon/inputs.rb	/^    def bottom; y; end$/;"	f	class:GTK.MousePoint
+bottom	./dragon/primitive.rb	/^      def bottom$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+bottom	./dragon/primitive.rb	/^      def bottom$/;"	f	class:GTK.Primitive.Point
+bottom_right	./dragon/grid.rb	/^    def bottom_right$/;"	f	class:GTK.Grid
+build_binding_string	./dragon/controller_config.rb	/^    def build_binding_string$/;"	f	class:GTK.ControllerConfig
+button_name_given_enum	./dragon/runtime_c_bridge.rb	/^    def button_name_given_enum raw$/;"	f	class:GTK.RuntimeCBridge
+c_bridge_init	./dragon/runtime_c_bridge.rb	/^    def c_bridge_init __sender$/;"	f	class:GTK.RuntimeCBridge
+calc	./dragon/console.rb	/^    def calc args$/;"	f	class:GTK.Console
+calc_fading	./dragon/controller_config.rb	/^    def calc_fading$/;"	f	class:GTK.ControllerConfig
+calc_wrapper	./dragon/runtime.rb	/^    def calc_wrapper tick_override_lambda = nil$/;"	f	class:GTK.Runtime
+calcstringbox	./dragon/runtime.rb	/^    def calcstringbox str, size_enum = 0, font = "text.ttf"$/;"	f	class:GTK.Runtime
+cap	./dragon/numeric.rb	/^  def cap i$/;"	f	class:Numeric
+cap_min_max	./dragon/numeric.rb	/^  def cap_min_max min, max$/;"	f	class:Numeric
+center	./dragon/grid.rb	/^    def center$/;"	f	class:GTK.Grid
+center_inside_rect	./dragon/primitive.rb	/^      def center_inside_rect *other_rect$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+center_inside_rect	./dragon/primitive.rb	/^      def center_inside_rect *other_rect$/;"	f	class:GTK.Rect
+char_to_method	./dragon/inputs.rb	/^    def self.char_to_method char, int = nil$/;"	F	class:GTK.KeyboardKeys
+char_to_method_hash	./dragon/inputs.rb	/^    def self.char_to_method_hash$/;"	F	class:GTK.KeyboardKeys
+char_with_shift	./dragon/inputs.rb	/^    def self.char_with_shift raw_key, modifier$/;"	F	class:GTK.KeyboardKeys
+check_framerate	./dragon/runtime_framerate.rb	/^    def check_framerate$/;"	f	class:GTK.RuntimeFramerate
+check_mailbox	./dragon/runtime_hotload.rb	/^    def check_mailbox$/;"	f	class:GTK.RuntimeHotload
+check_numeric!	./dragon/numeric.rb	/^  def check_numeric! sender, other$/;"	f	class:Numeric
+choose_target	./dragon/controller_config.rb	/^    def choose_target$/;"	f	class:GTK.ControllerConfig
+clamp	./dragon/numeric.rb	/^  def clamp lower, higher$/;"	f	class:Float
+clear	./dragon/inputs.rb	/^    def clear$/;"	f	class:GTK.Controller
+clear	./dragon/inputs.rb	/^    def clear$/;"	f	class:GTK.ControllerKeys
+clear	./dragon/inputs.rb	/^    def clear$/;"	f	class:GTK.Keyboard
+clear	./dragon/inputs.rb	/^    def clear$/;"	f	class:GTK.KeyboardKeys
+clear	./dragon/inputs.rb	/^    def clear$/;"	f	class:GTK.Mouse
+clear	./dragon/outputs.rb	/^    def clear$/;"	f	class:GTK.Outputs
+clear!	./dragon/open_entity.rb	/^    def clear!$/;"	f	class:GTK.OpenEntity
+clear!	./dragon/strict_entity.rb	/^    def clear!$/;"	f	class:GTK.StrictEntity
+clear_draw_passes	./dragon/runtime.rb	/^    def clear_draw_passes$/;"	f	class:GTK.Runtime
+clear_draw_primitives	./dragon/runtime.rb	/^    def clear_draw_primitives pass$/;"	f	class:GTK.Runtime
+clear_inputs	./dragon/runtime.rb	/^    def clear_inputs$/;"	f	class:GTK.Runtime
+clear_key	./dragon/inputs.rb	/^    def clear_key key$/;"	f	class:GTK.KeyboardKeys
+clear_non_static	./dragon/outputs.rb	/^    def clear_non_static$/;"	f	class:GTK.Outputs
+clear_non_static_reserved	./dragon/outputs.rb	/^    def clear_non_static_reserved$/;"	f	class:GTK.Outputs
+clear_render_targets	./dragon/args.rb	/^    def clear_render_targets$/;"	f	class:GTK.Args
+clear_toast	./dragon/console.rb	/^    def clear_toast$/;"	f	class:GTK.Console
+cli_arguments	./dragon/runtime.rb	/^    def cli_arguments$/;"	f	class:GTK.Runtime
+click	./dragon/args.rb	/^    def click$/;"	f	class:GTK.Args
+click	./dragon/inputs.rb	/^    def click$/;"	f	class:GTK.Inputs
+click_at	./dragon/args.rb	/^    def click_at$/;"	f	class:GTK.Args
+close	./dragon/console.rb	/^    def close$/;"	f	class:GTK.Console
+combinations	./dragon/numeric.rb	/^  def combinations other_int$/;"	f	class:Numeric
+comment	./dragon/object.rb	/^  def comment$/;"	f	class:method_missing
+console_text_width	./dragon/console.rb	/^    def console_text_width$/;"	f	class:GTK.Console
+console_toggle_key_down?	./dragon/console.rb	/^    def console_toggle_key_down? args$/;"	f	class:GTK.Console
+controller_one	./dragon/args.rb	/^    def controller_one$/;"	f	class:GTK.Args
+controller_one	./dragon/inputs.rb	/^    def controller_one$/;"	f	class:GTK.Inputs
+controller_two	./dragon/args.rb	/^    def controller_two$/;"	f	class:GTK.Args
+controller_two	./dragon/inputs.rb	/^    def controller_two$/;"	f	class:GTK.Inputs
+core_files_to_reload	./dragon/runtime_hotload.rb	/^    def core_files_to_reload$/;"	f	class:GTK.RuntimeHotload
+created_at_elapsed	./dragon/inputs.rb	/^    def created_at_elapsed$/;"	f	class:GTK.MousePoint
+created_at_elapsed	./dragon/open_entity.rb	/^    def created_at_elapsed$/;"	f	class:GTK.OpenEntity
+created_at_elapsed	./dragon/strict_entity.rb	/^    def created_at_elapsed$/;"	f	class:GTK.StrictEntity
+cube	./dragon/easing.rb	/^    def self.cube x$/;"	F	class:GTK.Easing
+current_framerate	./dragon/runtime_framerate.rb	/^    def current_framerate$/;"	f	class:GTK.RuntimeFramerate
+current_framerate_raw	./dragon/runtime_deprecated.rb	/^    def current_framerate_raw$/;"	f	class:GTK.RuntimeDeprecated
+currently_toasting?	./dragon/console.rb	/^    def currently_toasting?$/;"	f	class:GTK.Console
+default_static_background_color	./dragon/outputs.rb	/^    def default_static_background_color$/;"	f	class:GTK.Outputs
+defines_enums?	./dragon/primitive.rb	/^      def defines_enums?$/;"	f	class:GTK.Label
+delta_framerate	./dragon/runtime_framerate.rb	/^    def delta_framerate$/;"	f	class:GTK.RuntimeFramerate
+delta_tick	./dragon/runtime.rb	/^    def delta_tick$/;"	f	class:GTK.Runtime
+delta_time	./dragon/runtime.rb	/^    def delta_time$/;"	f	class:GTK.Runtime.grep_source_file
+delta_time=	./dragon/runtime.rb	/^    def delta_time= value$/;"	f	class:GTK.Runtime.grep_source_file
+delta_time_enabled?	./dragon/runtime.rb	/^    def delta_time_enabled?$/;"	f	class:GTK.Runtime.grep_source_file
+dequeue_sounds	./dragon/runtime.rb	/^    def dequeue_sounds pass$/;"	f	class:GTK.Runtime
+destructure	./dragon/args.rb	/^    def destructure$/;"	f	class:GTK.Args
+directional_vector	./dragon/directional_input_helper_methods.rb	/^    def directional_vector$/;"	f	class:GTK.DirectionalInputHelperMethods
+directional_vector	./dragon/inputs.rb	/^    def directional_vector$/;"	f	class:GTK.Inputs
+disable	./dragon/console.rb	/^    def disable$/;"	f	class:GTK.Console
+disable_console	./dragon/runtime.rb	/^    def disable_console$/;"	f	class:GTK.Runtime
+distance	./dragon/geometry.rb	/^    def self.distance point_one, point_two$/;"	F	class:GTK
+docs	./dragon/runtime.rb	/^    def docs$/;"	f	class:GTK.Runtime
+down	./dragon/inputs.rb	/^    def down$/;"	f	class:GTK.Controller
+down	./dragon/inputs.rb	/^    def down$/;"	f	class:GTK.Inputs
+down	./dragon/inputs.rb	/^    def down$/;"	f	class:GTK.Keyboard
+down	./dragon/inputs.rb	/^    def down$/;"	f	class:GTK.Mouse
+dragon	./dragon/args_deprecated.rb	/^    def dragon$/;"	f	class:GTK.ArgsDeprecated
+draw_border	./dragon/runtime_draw.rb	/^    def draw_border s$/;"	f	class:GTK.RuntimeDraw
+draw_clear	./dragon/runtime.rb	/^    def draw_clear r, g, b$/;"	f	class:GTK.Runtime
+draw_label	./dragon/runtime_draw.rb	/^    def draw_label l$/;"	f	class:GTK.RuntimeDraw
+draw_line	./dragon/runtime_draw.rb	/^    def draw_line l$/;"	f	class:GTK.RuntimeDraw
+draw_primitive	./dragon/runtime.rb	/^    def draw_primitive p$/;"	f	class:GTK.Runtime
+draw_solid	./dragon/runtime_draw.rb	/^    def draw_solid s$/;"	f	class:GTK.RuntimeDraw
+draw_sprite	./dragon/runtime_draw.rb	/^    def draw_sprite s$/;"	f	class:GTK.RuntimeDraw
+dx	./dragon/hash.rb	/^  def dx$/;"	f	class:Hash
+dx=	./dragon/hash.rb	/^  def dx= value$/;"	f	class:Hash
+dy	./dragon/hash.rb	/^  def dy$/;"	f	class:Hash
+dy=	./dragon/hash.rb	/^  def dy= value$/;"	f	class:Hash
+dynamic_block	./dragon/log.rb	/^    def self.dynamic_block$/;"	F	class:GTK.Log
+ease	./dragon/numeric.rb	/^  def ease duration, *definitions$/;"	f	class:Numeric
+ease_extended	./dragon/numeric.rb	/^  def ease_extended tick_count_override, duration, default_before, default_after, *definitions$/;"	f	class:Numeric
+ease_final_value	./dragon/numeric.rb	/^  def ease_final_value *definitions$/;"	f	class:Numeric
+ease_initial_value	./dragon/numeric.rb	/^  def ease_initial_value *definitions$/;"	f	class:Numeric
+elapsed?	./dragon/numeric.rb	/^  def elapsed? offset, tick_count_override = nil$/;"	f	class:Numeric
+elapsed_time	./dragon/numeric.rb	/^  def elapsed_time tick_count_override = nil$/;"	f	class:Numeric
+elapsed_time_percent	./dragon/numeric.rb	/^  def elapsed_time_percent duration$/;"	f	class:Numeric
+enable	./dragon/console.rb	/^    def enable$/;"	f	class:GTK.Console
+enable_console	./dragon/runtime.rb	/^    def enable_console$/;"	f	class:GTK.Runtime
+end_with_bang?	./dragon/string.rb	/^  def end_with_bang?$/;"	f	class:String
+end_with_bang?	./dragon/symbol.rb	/^  def end_with_bang?$/;"	f	class:Symbol
+entity_id	./dragon/open_entity.rb	/^    def entity_id$/;"	f	class:GTK.OpenEntity
+equal!	./dragon/assert.rb	/^    def equal! actual, expected, message = nil$/;"	f	class:GTK.Assert
+error_markers	./dragon/console.rb	/^    def error_markers$/;"	f	class:GTK.Console
+eval_or_create_main_rb	./dragon/runtime.rb	/^    def eval_or_create_main_rb$/;"	f	class:GTK.Runtime
+eval_the_set_command	./dragon/console.rb	/^    def eval_the_set_command$/;"	f	class:GTK.Console
+even?	./dragon/numeric.rb	/^  def even?$/;"	f	class:Fixnum
+exec_definition	./dragon/easing.rb	/^    def self.exec_definition definition, start_tick, duration, x$/;"	F	class:GTK.Easing
+exec_definitions	./dragon/easing.rb	/^    def self.exec_definitions start_tick, current_tick, end_tick, default_before, default_after, *definitions$/;"	F	class:GTK.Easing
+export!	./dragon/runtime.rb	/^    def export! with_comments = nil, file_name_override = nil$/;"	f	class:GTK.Runtime
+f_or_default	./dragon/object.rb	/^  def f_or_default default = 0$/;"	f	class:method_missing
+false!	./dragon/assert.rb	/^    def false! value, message = nil$/;"	f	class:GTK.Assert
+fast_rand	./dragon/object.rb	/^  def fast_rand$/;"	f	class:Object
+fdiv	./dragon/numeric.rb	/^  def fdiv n$/;"	f	class:Numeric
+feels_like_an_array?	./dragon/nil_class_false_class.rb	/^  def feels_like_an_array? name$/;"	f	class:NilClassFalseClass
+files_to_reload	./dragon/runtime_hotload.rb	/^    def files_to_reload$/;"	f	class:GTK.RuntimeHotload
+filter_methods_to_trace	./dragon/trace.rb	/^    def self.filter_methods_to_trace methods$/;"	F	class:GTK.Trace
+final_value	./dragon/easing.rb	/^    def self.final_value *definitions$/;"	F	class:GTK.Easing
+five	./dragon/numeric.rb	/^  def five$/;"	f	class:Numeric
+flip	./dragon/easing.rb	/^    def self.flip x$/;"	F	class:GTK.Easing
+flip_horizontally	./dragon/hash.rb	/^  def flip_horizontally$/;"	f	class:Hash
+flip_horizontally	./dragon/primitive.rb	/^      def flip_horizontally$/;"	f	class:GTK.Sprite
+flip_horizontally=	./dragon/hash.rb	/^  def flip_horizontally= value$/;"	f	class:Hash
+flip_horizontally=	./dragon/primitive.rb	/^      def flip_horizontally= value$/;"	f	class:GTK.Sprite
+flip_vertically	./dragon/hash.rb	/^  def flip_vertically$/;"	f	class:Hash
+flip_vertically	./dragon/primitive.rb	/^      def flip_vertically$/;"	f	class:GTK.Sprite
+flip_vertically=	./dragon/hash.rb	/^  def flip_vertically= value$/;"	f	class:Hash
+flip_vertically=	./dragon/primitive.rb	/^      def flip_vertically= value$/;"	f	class:GTK.Sprite
+flush_trace	./dragon/trace.rb	/^    def self.flush_trace pad_with_newline = false$/;"	F	class:GTK.Trace
+font	./dragon/hash.rb	/^  def font$/;"	f	class:Hash
+font	./dragon/primitive.rb	/^      def font$/;"	f	class:GTK.Label
+font=	./dragon/hash.rb	/^  def font= value$/;"	f	class:Hash
+font=	./dragon/primitive.rb	/^      def font= value$/;"	f	class:GTK.Label
+frame_index	./dragon/nil_class_false_class.rb	/^  def frame_index *args$/;"	f	class:NilClassFalseClass
+frame_index	./dragon/numeric.rb	/^  def frame_index frame_count, hold_for, repeat, tick_count_override = nil$/;"	f	class:Numeric
+framerate_below_threshold?	./dragon/runtime_framerate.rb	/^    def framerate_below_threshold?$/;"	f	class:GTK.RuntimeFramerate
+framerate_init	./dragon/runtime_framerate.rb	/^    def framerate_init$/;"	f	class:GTK.RuntimeFramerate
+framerate_warning_message	./dragon/runtime_framerate.rb	/^    def framerate_warning_message$/;"	f	class:GTK.RuntimeFramerate
+g	./dragon/hash.rb	/^  def g$/;"	f	class:Hash
+g	./dragon/primitive.rb	/^      def g$/;"	f	class:GTK.Color
+g	./dragon/primitive.rb	/^      def g$/;"	f	class:GTK.Label
+g	./dragon/primitive.rb	/^      def g$/;"	f	class:GTK.Sprite
+g=	./dragon/hash.rb	/^  def g= value$/;"	f	class:Hash
+g=	./dragon/primitive.rb	/^      def g= value$/;"	f	class:GTK.Color
+g=	./dragon/primitive.rb	/^      def g= value$/;"	f	class:GTK.Label
+g=	./dragon/primitive.rb	/^      def g= value$/;"	f	class:GTK.Sprite
+game	./dragon/args_deprecated.rb	/^    def game$/;"	f	class:GTK.ArgsDeprecated
+geometry	./dragon/attr_gtk.rb	/^  def geometry$/;"	f	class:AttrGTK
+get	./dragon/inputs.rb	/^    def get collection$/;"	f	class:GTK.KeyboardKeys
+get_ruby_reload_list	./dragon/runtime_c_bridge.rb	/^    def get_ruby_reload_list$/;"	f	class:GTK.RuntimeCBridge
+global_created_at_elapsed	./dragon/open_entity.rb	/^    def global_created_at_elapsed$/;"	f	class:GTK.OpenEntity
+global_created_at_elapsed	./dragon/strict_entity.rb	/^    def global_created_at_elapsed$/;"	f	class:GTK.StrictEntity
+global_ease	./dragon/numeric.rb	/^  def global_ease duration, *definitions$/;"	f	class:Numeric
+global_tick_count	./dragon/kernel.rb	/^  def self.global_tick_count$/;"	F	class:Kernel
+global_tick_count	./dragon/kernel.rb	/^  def self.global_tick_count= value$/;"	F	class:Kernel
+greater	./dragon/numeric.rb	/^  def greater other$/;"	f	class:Numeric
+grep_did_you_mean	./dragon/runtime.rb	/^    def grep_did_you_mean instance, method$/;"	f	class:GTK.Runtime
+grep_did_you_mean_recommendations	./dragon/runtime.rb	/^    def grep_did_you_mean_recommendations instance, method$/;"	f	class:GTK.Runtime
+grep_source	./dragon/runtime.rb	/^    def grep_source *strings_with_recommendations$/;"	f	class:GTK.Runtime.grep_source_file
+grep_source_file	./dragon/runtime.rb	/^    def grep_source_file file, *strings_with_recommendations$/;"	f	class:GTK.Runtime
+grid	./dragon/attr_gtk.rb	/^  def grid$/;"	f	class:AttrGTK
+gsub	./dragon/symbol.rb	/^  def gsub *args$/;"	f	class:Symbol
+gtk	./dragon/args.rb	/^    def gtk$/;"	f	class:GTK.Args
+gtk	./dragon/attr_gtk.rb	/^  def gtk$/;"	f	class:AttrGTK
+gtk_args	./dragon/object.rb	/^  def self.gtk_args$/;"	F	class:Object
+h	./dragon/grid.rb	/^    def h$/;"	f	class:GTK.Grid
+h	./dragon/hash.rb	/^  def h$/;"	f	class:Hash
+h	./dragon/inputs.rb	/^    def h; 0; end$/;"	f	class:GTK.MousePoint
+h	./dragon/primitive.rb	/^      def h$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+h	./dragon/primitive.rb	/^      def h$/;"	f	class:GTK.Label
+h	./dragon/primitive.rb	/^      def h$/;"	f	class:GTK.Line
+h	./dragon/primitive.rb	/^      def h$/;"	f	class:GTK.Primitive.Point
+h	./dragon/primitive.rb	/^      def h$/;"	f	class:GTK.Rect
+h=	./dragon/hash.rb	/^  def h= value$/;"	f	class:Hash
+h=	./dragon/primitive.rb	/^      def h= value$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+h=	./dragon/primitive.rb	/^      def h= value$/;"	f	class:GTK.Rect
+h_half	./dragon/grid.rb	/^    def h_half$/;"	f	class:GTK.Grid
+h_half	./dragon/primitive.rb	/^      def h_half$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+h_half	./dragon/primitive_deprecated.rb	/^      def h_half$/;"	f	class:GTK.Primitive.RectDeprecated
+half	./dragon/numeric.rb	/^  def half$/;"	f	class:Numeric
+hash	./dragon/open_entity.rb	/^    def hash$/;"	f	class:GTK.OpenEntity
+hash	./dragon/strict_entity.rb	/^    def hash$/;"	f	class:GTK.StrictEntity
+headline	./dragon/log.rb	/^    def self.headline name$/;"	F	class:GTK.Log
+height	./dragon/primitive.rb	/^      def height$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+height_half	./dragon/primitive.rb	/^      def height_half$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+height_half	./dragon/primitive_deprecated.rb	/^      def height_half$/;"	f	class:GTK.Primitive.RectDeprecated
+help	./dragon/object.rb	/^  def help$/;"	f	class:method_missing
+help	./dragon/runtime.rb	/^    def help$/;"	f	class:GTK.Runtime
+hidden?	./dragon/console.rb	/^    def hidden?$/;"	f	class:GTK.Console
+hide	./dragon/console.rb	/^    def hide$/;"	f	class:GTK.Console
+hotload_if_needed	./dragon/runtime_hotload.rb	/^    def hotload_if_needed$/;"	f	class:GTK.RuntimeHotload
+hotload_init	./dragon/runtime_hotload.rb	/^    def hotload_init$/;"	f	class:GTK.RuntimeHotload
+hotload_on_write_file	./dragon/runtime_hotload.rb	/^    def hotload_on_write_file file_name$/;"	f	class:GTK.RuntimeHotload
+hotload_source_files	./dragon/runtime_hotload.rb	/^    def hotload_source_files$/;"	f	class:GTK.RuntimeHotload
+http_done	./dragon/runtime.rb	/^      def http_done$/;"	f	class:GTK.Runtime.HTTPCallbacks
+http_get	./dragon/runtime.rb	/^    def http_get url, extra_headers=nil$/;"	f	class:GTK.Runtime
+http_head	./dragon/runtime.rb	/^    def http_head url, extra_headers=nil$/;"	f	class:GTK.Runtime
+http_post	./dragon/runtime.rb	/^    def http_post url, form_fields=nil, extra_headers=nil$/;"	f	class:GTK.Runtime
+http_put	./dragon/runtime.rb	/^    def http_put url, fname, extra_headers=nil$/;"	f	class:GTK.Runtime
+http_response_data	./dragon/runtime.rb	/^      def http_response_data$/;"	f	class:GTK.Runtime.HTTPCallbacks
+http_response_header	./dragon/runtime.rb	/^      def http_response_header$/;"	f	class:GTK.Runtime.HTTPCallbacks
+i_or_default	./dragon/object.rb	/^  def i_or_default default = 0$/;"	f	class:method_missing
+id	./dragon/entity.rb	/^    def self.id!$/;"	F	class:GTK.Entity
+id	./dragon/hash.rb	/^  def id$/;"	f	class:Hash
+id	./dragon/object.rb	/^  def id$/;"	f	class:method_missing
+identity	./dragon/easing.rb	/^    def self.identity x$/;"	F	class:GTK.Easing
+idiv	./dragon/numeric.rb	/^  def idiv n$/;"	f	class:Numeric
+ignore_search_term?	./dragon/runtime.rb	/^    def ignore_search_term? word$/;"	f	class:GTK.Runtime
+include?	./dragon/hash.rb	/^  def include? *args$/;"	f	class:Hash
+include?	./dragon/symbol.rb	/^  def include? v$/;"	f	class:Symbol
+include_any?	./dragon/array.rb	/^  def include_any? *items$/;"	f	class:Array.product
+include_any_words?	./dragon/console.rb	/^    def include_any_words? text, words$/;"	f	class:GTK.Console
+include_error_marker?	./dragon/console.rb	/^    def include_error_marker? text$/;"	f	class:GTK.Console
+include_subdued_markers?	./dragon/console.rb	/^    def include_subdued_markers? text$/;"	f	class:GTK.Console
+included	./dragon/directional_input_helper_methods.rb	/^    def self.included klass$/;"	F	class:GTK.DirectionalInputHelperMethods
+indent_lines	./dragon/string.rb	/^  def indent_lines amount$/;"	f	class:String.wrapped_lines
+init_mtimes	./dragon/runtime_hotload.rb	/^    def init_mtimes file$/;"	f	class:GTK.RuntimeHotload
+initial_value	./dragon/easing.rb	/^    def self.initial_value *definitions$/;"	F	class:GTK.Easing
+initialize	./dragon/args.rb	/^    def initialize runtime, recording$/;"	f	class:GTK.Args
+initialize	./dragon/console.rb	/^    def initialize$/;"	f	class:GTK.Console
+initialize	./dragon/controller_config.rb	/^    def initialize runtime$/;"	f	class:GTK.ControllerConfig
+initialize	./dragon/grid.rb	/^    def initialize ffi_draw$/;"	f	class:GTK.Grid
+initialize	./dragon/inputs.rb	/^    def initialize x, y$/;"	f	class:GTK.MousePoint
+initialize	./dragon/inputs.rb	/^    def initialize$/;"	f	class:GTK.Controller
+initialize	./dragon/inputs.rb	/^    def initialize$/;"	f	class:GTK.Inputs
+initialize	./dragon/inputs.rb	/^    def initialize$/;"	f	class:GTK.Keyboard
+initialize	./dragon/inputs.rb	/^    def initialize$/;"	f	class:GTK.Mouse
+initialize	./dragon/open_entity.rb	/^    def initialize name = nil$/;"	f	class:GTK.OpenEntity
+initialize	./dragon/outputs.rb	/^    def initialize opts = {}$/;"	f	class:GTK.Sound
+initialize	./dragon/outputs.rb	/^    def initialize reference_name, mark_method, outputs_with_ids$/;"	f	class:GTK.FlatArray
+initialize	./dragon/outputs.rb	/^    def initialize target = nil$/;"	f	class:GTK.Outputs
+initialize	./dragon/recording.rb	/^    def initialize runtime$/;"	f	class:GTK.Recording
+initialize	./dragon/runtime.rb	/^      def initialize protect_from_gc$/;"	f	class:GTK.Runtime.HTTPCallbacks
+initialize	./dragon/runtime.rb	/^    def initialize platform, production, width, height, argv$/;"	f	class:GTK.Runtime
+initialize	./dragon/strict_entity.rb	/^    def initialize name, init_hash = nil, block = nil$/;"	f	class:GTK.StrictEntity
+initialize	./dragon/tests.rb	/^    def initialize$/;"	f	class:GTK.Tests
+inputs	./dragon/attr_gtk.rb	/^  def inputs$/;"	f	class:AttrGTK
+inputs_clear_command?	./dragon/console.rb	/^    def inputs_clear_command? args$/;"	f	class:GTK.Console
+inputs_scroll_down_full?	./dragon/console.rb	/^    def inputs_scroll_down_full? args$/;"	f	class:GTK.Console
+inputs_scroll_down_half?	./dragon/console.rb	/^    def inputs_scroll_down_half? args$/;"	f	class:GTK.Console
+inputs_scroll_up_full?	./dragon/console.rb	/^    def inputs_scroll_up_full? args$/;"	f	class:GTK.Console
+inputs_scroll_up_half?	./dragon/console.rb	/^    def inputs_scroll_up_half? args$/;"	f	class:GTK.Console
+inside_rect	./dragon/geometry.rb	/^    def self.inside_rect? inner_rect, outer_rect$/;"	F	class:GTK
+inside_rect?	./dragon/geometry.rb	/^    def inside_rect? outer$/;"	f	class:GTK.Geometry
+inside_rect?	./dragon/primitive.rb	/^      def inside_rect? outer_rect$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+inspect	./dragon/inputs.rb	/^    def inspect$/;"	f	class:GTK.Keyboard
+inspect	./dragon/open_entity.rb	/^    def inspect$/;"	f	class:GTK.OpenEntity
+inspect	./dragon/strict_entity.rb	/^    def inspect$/;"	f	class:GTK.StrictEntity
+intersect_rect	./dragon/geometry.rb	/^    def self.intersect_rect? rect_one, rect_two, tolerance = 0.1$/;"	F	class:GTK
+intersect_rect?	./dragon/geometry.rb	/^    def intersect_rect? other, tolerance = 0.1$/;"	f	class:GTK.Geometry
+intersect_rect?	./dragon/primitive.rb	/^      def intersect_rect? other, tolerance = 0.1$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+intersects_rect	./dragon/geometry.rb	/^    def self.intersects_rect? *args$/;"	F	class:GTK.Geometry
+intersects_rect?	./dragon/geometry.rb	/^    def intersects_rect? *args$/;"	f	class:GTK.Geometry
+intersects_rect?	./dragon/primitive.rb	/^      def intersects_rect? other, tolerance = 0.1$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+is_a?	./dragon/strict_entity.rb	/^    def is_a? klass$/;"	f	class:GTK.StrictEntity
+is_recording?	./dragon/recording.rb	/^    def is_recording?$/;"	f	class:GTK.Recording
+is_replaying?	./dragon/recording.rb	/^    def is_replaying?$/;"	f	class:GTK.Recording
+join_lines	./dragon/log.rb	/^    def self.join_lines args$/;"	F	class:GTK.Log
+key_down_in_game	./dragon/runtime_c_bridge.rb	/^    def key_down_in_game raw_key, modifier$/;"	f	class:GTK.RuntimeCBridge
+key_down_player_one	./dragon/runtime_c_bridge.rb	/^    def key_down_player_one raw_key, sender = false$/;"	f	class:GTK.RuntimeCBridge
+key_down_player_two	./dragon/runtime_c_bridge.rb	/^    def key_down_player_two raw_key, sender = false$/;"	f	class:GTK.RuntimeCBridge
+key_down_raw	./dragon/runtime_c_bridge.rb	/^    def key_down_raw raw_key, modifier, sender = false$/;"	f	class:GTK.RuntimeCBridge
+key_held_player_one	./dragon/runtime_c_bridge.rb	/^    def key_held_player_one raw_key, sender = false$/;"	f	class:GTK.RuntimeCBridge
+key_held_player_two	./dragon/runtime_c_bridge.rb	/^    def key_held_player_two raw_key, sender = false$/;"	f	class:GTK.RuntimeCBridge
+key_up_in_game	./dragon/runtime_c_bridge.rb	/^    def key_up_in_game raw_key, modifier, sender = false$/;"	f	class:GTK.RuntimeCBridge
+key_up_player_one	./dragon/runtime_c_bridge.rb	/^    def key_up_player_one raw_key, sender = false$/;"	f	class:GTK.RuntimeCBridge
+key_up_player_two	./dragon/runtime_c_bridge.rb	/^    def key_up_player_two raw_key, sender = false$/;"	f	class:GTK.RuntimeCBridge
+key_up_raw	./dragon/runtime_c_bridge.rb	/^    def key_up_raw raw_key, modifier, sender = false$/;"	f	class:GTK.RuntimeCBridge
+keyboard	./dragon/args.rb	/^    def keyboard$/;"	f	class:GTK.Args
+keyboard	./dragon/attr_gtk.rb	/^  def keyboard$/;"	f	class:AttrGTK
+label	./dragon/hash.rb	/^  def label$/;"	f	class:Hash
+label	./dragon/primitive.rb	/^      def label$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+label_contract	./dragon/help.rb	/^    def self.label_contract$/;"	F	class:GTK.Help
+labels	./dragon/args.rb	/^    def labels$/;"	f	class:GTK.Args
+labels	./dragon/outputs.rb	/^    def labels$/;"	f	class:GTK.Outputs
+labels	./dragon/primitive.rb	/^      def labels$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+labels=	./dragon/outputs_deprecated.rb	/^    def labels= value$/;"	f	class:GTK.OutputsDeprecated
+left	./dragon/attr_sprite.rb	/^  def left$/;"	f	class:AttrSprite
+left	./dragon/hash.rb	/^  def left$/;"	f	class:Hash
+left	./dragon/inputs.rb	/^    def left$/;"	f	class:GTK.Controller
+left	./dragon/inputs.rb	/^    def left$/;"	f	class:GTK.Inputs
+left	./dragon/inputs.rb	/^    def left$/;"	f	class:GTK.Keyboard
+left	./dragon/inputs.rb	/^    def left; x; end$/;"	f	class:GTK.MousePoint
+left	./dragon/primitive.rb	/^      def left$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+left	./dragon/primitive.rb	/^      def left$/;"	f	class:GTK.Primitive.Point
+left_analog_x_player_1	./dragon/runtime_c_bridge.rb	/^    def left_analog_x_player_1 value, sender = false$/;"	f	class:GTK.RuntimeCBridge
+left_analog_x_player_2	./dragon/runtime_c_bridge.rb	/^    def left_analog_x_player_2 value, sender = false$/;"	f	class:GTK.RuntimeCBridge
+left_analog_y_player_1	./dragon/runtime_c_bridge.rb	/^    def left_analog_y_player_1 value, sender = false$/;"	f	class:GTK.RuntimeCBridge
+left_analog_y_player_2	./dragon/runtime_c_bridge.rb	/^    def left_analog_y_player_2 value, sender = false$/;"	f	class:GTK.RuntimeCBridge
+left_of?	./dragon/numeric.rb	/^  def left_of? v$/;"	f	class:Numeric
+left_right	./dragon/directional_input_helper_methods.rb	/^    def left_right$/;"	f	class:GTK.DirectionalInputHelperMethods
+left_right	./dragon/inputs.rb	/^    def left_right$/;"	f	class:GTK.Controller
+left_right	./dragon/inputs.rb	/^    def left_right$/;"	f	class:GTK.Inputs
+left_right	./dragon/inputs.rb	/^    def left_right$/;"	f	class:GTK.KeyboardKeys
+lesser	./dragon/numeric.rb	/^  def lesser other$/;"	f	class:Numeric
+line	./dragon/hash.rb	/^  def line$/;"	f	class:Hash
+line	./dragon/primitive.rb	/^      def line$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+line_intersect	./dragon/geometry.rb	/^    def self.line_intersect line_one, line_two$/;"	F	class:GTK
+line_rect	./dragon/geometry.rb	/^    def self.line_rect line$/;"	F	class:GTK
+line_slope	./dragon/geometry.rb	/^    def self.line_slope line, replace_infinity: nil$/;"	F	class:GTK
+line_y_intercept	./dragon/geometry.rb	/^    def self.line_y_intercept line$/;"	F	class:GTK
+lines	./dragon/args.rb	/^    def lines$/;"	f	class:GTK.Args
+lines	./dragon/outputs.rb	/^    def lines$/;"	f	class:GTK.Outputs
+lines	./dragon/primitive.rb	/^      def lines$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+lines=	./dragon/outputs_deprecated.rb	/^    def lines= value$/;"	f	class:GTK.OutputsDeprecated
+load_hash_value	./dragon/open_entity.rb	/^    def self.load_hash_value value$/;"	F	class:GTK.OpenEntity
+load_history	./dragon/console.rb	/^    def load_history$/;"	f	class:GTK.Console
+load_state	./dragon/runtime.rb	/^    def load_state file_name$/;"	f	class:GTK.Runtime
+log	./dragon/log.rb	/^  def log *args$/;"	f	class:Object
+log	./dragon/runtime.rb	/^    def log obj, sender = nil$/;"	f	class:GTK.Runtime
+log_black	./dragon/log.rb	/^  def log_black *args$/;"	f	class:Object
+log_blue	./dragon/log.rb	/^  def log_blue *args$/;"	f	class:Object
+log_bright_black	./dragon/log.rb	/^  def log_bright_black *args$/;"	f	class:Object
+log_bright_blue	./dragon/log.rb	/^  def log_bright_blue *args$/;"	f	class:Object
+log_bright_cyan	./dragon/log.rb	/^  def log_bright_cyan *args$/;"	f	class:Object
+log_bright_green	./dragon/log.rb	/^  def log_bright_green *args$/;"	f	class:Object
+log_bright_magenta	./dragon/log.rb	/^  def log_bright_magenta *args$/;"	f	class:Object
+log_bright_red	./dragon/log.rb	/^  def log_bright_red *args$/;"	f	class:Object
+log_bright_white	./dragon/log.rb	/^  def log_bright_white *args$/;"	f	class:Object
+log_bright_yellow	./dragon/log.rb	/^  def log_bright_yellow *args$/;"	f	class:Object
+log_cyan	./dragon/log.rb	/^  def log_cyan *args$/;"	f	class:Object
+log_green	./dragon/log.rb	/^  def log_green *args$/;"	f	class:Object
+log_important	./dragon/log.rb	/^  def log_important *args$/;"	f	class:Object
+log_inconclusive	./dragon/tests.rb	/^    def log_inconclusive m$/;"	f	class:GTK.Tests
+log_info	./dragon/log.rb	/^  def log_info *args$/;"	f	class:Object
+log_level	./dragon/runtime.rb	/^    def log_level$/;"	f	class:GTK.Runtime.grep_source_file
+log_level=	./dragon/runtime.rb	/^    def log_level= value$/;"	f	class:GTK.Runtime.grep_source_file
+log_levels	./dragon/runtime.rb	/^    def log_levels$/;"	f	class:GTK.Runtime.grep_source_file
+log_magenta	./dragon/log.rb	/^  def log_magenta *args$/;"	f	class:Object
+log_no_tests_found	./dragon/tests.rb	/^    def log_no_tests_found$/;"	f	class:GTK
+log_once	./dragon/log.rb	/^  def log_once *ids, message$/;"	f	class:Object
+log_once_info	./dragon/log.rb	/^  def log_once_info *ids, message$/;"	f	class:Object
+log_passed	./dragon/tests.rb	/^    def log_passed m$/;"	f	class:GTK
+log_print	./dragon/log.rb	/^  def log_print *args$/;"	f	class:Object
+log_red	./dragon/log.rb	/^  def log_red *args$/;"	f	class:Object
+log_reset_color	./dragon/log.rb	/^  def log_reset_color$/;"	f	class:Object
+log_test_running	./dragon/tests.rb	/^    def log_test_running m$/;"	f	class:GTK
+log_test_signature_incorrect	./dragon/tests.rb	/^    def log_test_signature_incorrect m$/;"	f	class:GTK
+log_white	./dragon/log.rb	/^  def log_white *args$/;"	f	class:Object
+log_with_color	./dragon/log.rb	/^  def log_with_color xterm_escape_code, *args$/;"	f	class:Object
+log_yellow	./dragon/log.rb	/^  def log_yellow *args$/;"	f	class:Object
+looks_like_a_sprite?	./dragon/primitive.rb	/^      def looks_like_a_sprite?$/;"	f	class:GTK.Color
+ltrim	./dragon/string.rb	/^  def ltrim$/;"	f	class:String.wrapped_lines.indent_lines
+ltrim!	./dragon/string.rb	/^  def ltrim!$/;"	f	class:String.wrapped_lines.indent_lines
+map	./dragon/numeric.rb	/^  def map$/;"	f	class:Numeric
+map_2d	./dragon/array.rb	/^  def map_2d$/;"	f	class:Array.product
+map_with_index	./dragon/numeric.rb	/^  def map_with_index$/;"	f	class:Numeric
+map_with_ys	./dragon/docs.rb	/^    def map_with_ys$/;"	f	class:GTK.Docs
+map_with_ys	./dragon/numeric.rb	/^  def map_with_ys ys, &block$/;"	f	class:Numeric
+mark_and_id!	./dragon/outputs.rb	/^    def mark_and_id! o$/;"	f	class:GTK.FlatArray
+mark_as_border!	./dragon/primitive.rb	/^      def mark_as_border!$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+mark_as_common!	./dragon/primitive.rb	/^      def mark_as_common!$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+mark_as_label!	./dragon/primitive.rb	/^      def mark_as_label!$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+mark_as_line!	./dragon/primitive.rb	/^      def mark_as_line!$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+mark_as_point!	./dragon/primitive.rb	/^      def mark_as_point!$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+mark_as_primitive!	./dragon/primitive.rb	/^      def mark_as_primitive! type$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+mark_as_rect!	./dragon/primitive.rb	/^      def mark_as_rect!$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+mark_as_solid!	./dragon/primitive.rb	/^      def mark_as_solid!$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+mark_as_sprite!	./dragon/primitive.rb	/^      def mark_as_sprite!$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+mark_assert!	./dragon/primitive.rb	/^      def mark_assert!$/;"	f	class:GTK.ConversionCapabilities
+mark_class_as_traced	./dragon/trace.rb	/^    def self.mark_class_as_traced! klass$/;"	F	class:GTK.Trace
+mark_ruby_file_for_reload	./dragon/runtime_c_bridge.rb	/^    def mark_ruby_file_for_reload path$/;"	f	class:GTK.RuntimeCBridge
+mark_test_failed	./dragon/tests.rb	/^    def mark_test_failed m, e$/;"	f	class:GTK.Tests
+meta	./dragon/object.rb	/^  def self.meta o$/;"	F	class:ObjectMetadata
+meta	./dragon/object.rb	/^  def self.meta! o$/;"	F	class:ObjectMetadata
+meta	./dragon/open_entity.rb	/^    def meta o$/;"	f	class:GTK.OpenEntity
+meta!	./dragon/open_entity.rb	/^    def meta! o$/;"	f	class:GTK.OpenEntity
+metadata_object_id	./dragon/object.rb	/^  def metadata_object_id$/;"	f	class:method_missing
+method_missing	./dragon/directional_input_helper_methods.rb	/^    def method_missing m, *args$/;"	f	class:GTK.DirectionalInputHelperMethods
+method_missing	./dragon/docs.rb	/^    def method_missing m, *args$/;"	f	class:GTK.Docs
+method_missing	./dragon/inputs.rb	/^    def method_missing m, *args$/;"	f	class:GTK.KeyboardKeys
+method_missing	./dragon/object.rb	/^  def method_missing name, *args, &block$/;"	f
+method_missing	./dragon/open_entity.rb	/^    def method_missing name, *args, &block$/;"	f	class:GTK.OpenEntity
+method_missing	./dragon/strict_entity.rb	/^    def method_missing m, *args$/;"	f	class:GTK.StrictEntity
+minus	./dragon/numeric.rb	/^  def minus i$/;"	f	class:Numeric
+mod	./dragon/numeric.rb	/^  def mod n$/;"	f	class:Numeric
+mod_zero?	./dragon/numeric.rb	/^  def mod_zero? *ns$/;"	f	class:Numeric
+mouse	./dragon/args.rb	/^    def mouse$/;"	f	class:GTK.Args
+mouse_button_pressed	./dragon/runtime_c_bridge.rb	/^    def mouse_button_pressed button, sender = false$/;"	f	class:GTK.RuntimeCBridge
+mouse_button_up	./dragon/runtime_c_bridge.rb	/^    def mouse_button_up button, sender = false$/;"	f	class:GTK.RuntimeCBridge
+mouse_move	./dragon/runtime_c_bridge.rb	/^    def mouse_move mousex, mousey, sender = false$/;"	f	class:GTK.RuntimeCBridge
+mouse_pressed	./dragon/runtime_c_bridge.rb	/^    def mouse_pressed mousex, mousey, sender = false$/;"	f	class:GTK.RuntimeCBridge
+mouse_up	./dragon/runtime_c_bridge.rb	/^    def mouse_up mousex, mousey, sender = false$/;"	f	class:GTK.RuntimeCBridge
+mouse_wheel	./dragon/runtime_c_bridge.rb	/^    def mouse_wheel x, y, sender = false$/;"	f	class:GTK.RuntimeCBridge
+move_to_different_part	./dragon/controller_config.rb	/^    def move_to_different_part part$/;"	f	class:GTK.ControllerConfig
+mult	./dragon/numeric.rb	/^  def mult n$/;"	f	class:Numeric
+multiline	./dragon/log.rb	/^    def self.multiline? *args$/;"	F	class:GTK.Log
+multiline?	./dragon/string.rb	/^  def multiline?$/;"	f	class:String.wrapped_lines
+neg?	./dragon/numeric.rb	/^  def neg?$/;"	f	class:Fixnum
+neg?	./dragon/numeric.rb	/^  def neg?$/;"	f	class:Float
+new	./dragon/object.rb	/^  def self.new *args$/;"	F	class:Object
+new?	./dragon/numeric.rb	/^  def new?$/;"	f	class:Numeric
+new?	./dragon/open_entity.rb	/^    def new? tick_count_override = nil$/;"	f	class:GTK.OpenEntity
+new_entity	./dragon/entity.rb	/^    def self.new_entity entity_type, init_hash = nil, block = nil$/;"	F	class:GTK.Entity
+new_entity	./dragon/hash.rb	/^  def new_entity entity_type, &block$/;"	f	class:Hash
+new_entity	./dragon/open_entity.rb	/^    def new_entity entity_type, init_hash = nil, &block$/;"	f	class:GTK.OpenEntity
+new_entity_strict	./dragon/entity.rb	/^    def self.new_entity_strict entity_type, init_hash = nil, block = nil$/;"	F	class:GTK.Entity
+new_entity_strict	./dragon/hash.rb	/^  def new_entity_strict entity_type, &block$/;"	f	class:Hash
+new_entity_strict	./dragon/open_entity.rb	/^    def new_entity_strict entity_type, init_hash = nil, &block$/;"	f	class:GTK.OpenEntity
+next_keyboard_inputs_after_tick	./dragon/runtime.rb	/^    def next_keyboard_inputs_after_tick$/;"	f	class:GTK.Runtime
+next_keyboard_inputs_before_tick	./dragon/runtime.rb	/^    def next_keyboard_inputs_before_tick$/;"	f	class:GTK.Runtime
+next_part	./dragon/controller_config.rb	/^    def next_part$/;"	f	class:GTK.ControllerConfig
+nil!	./dragon/assert.rb	/^    def nil! value, message = nil$/;"	f	class:GTK.Assert
+notify!	./dragon/runtime.rb	/^    def notify! message, duration = 300$/;"	f	class:GTK.Runtime.grep_source_file
+notify_subdued!	./dragon/runtime.rb	/^    def notify_subdued!$/;"	f	class:GTK.Runtime.grep_source_file
+numbers	./dragon/numeric.rb	/^  def numbers$/;"	f	class:Numeric
+numeric_or_default	./dragon/object.rb	/^  def numeric_or_default default = 0$/;"	f	class:method_missing
+odd?	./dragon/numeric.rb	/^  def odd?$/;"	f	class:Fixnum
+ok!	./dragon/assert.rb	/^    def ok!$/;"	f	class:GTK.Assert
+old?	./dragon/open_entity.rb	/^    def old?$/;"	f	class:GTK.OpenEntity
+on_load_succeeded	./dragon/runtime_hotload.rb	/^    def on_load_succeeded file$/;"	f	class:GTK.RuntimeHotload
+on_tick	./dragon/runtime_deprecated.rb	/^    def on_tick *args$/;"	f	class:GTK.RuntimeDeprecated
+on_ticks	./dragon/runtime_deprecated.rb	/^    def on_ticks$/;"	f	class:GTK.RuntimeDeprecated
+one	./dragon/numeric.rb	/^  def one$/;"	f	class:Numeric
+or	./dragon/object.rb	/^  def or other$/;"	f	class:Object
+origin_bottom_left!	./dragon/grid.rb	/^    def origin_bottom_left!$/;"	f	class:GTK.Grid
+origin_center!	./dragon/grid.rb	/^    def origin_center!$/;"	f	class:GTK.Grid
+original_method_name_for	./dragon/trace.rb	/^    def self.original_method_name_for m$/;"	F	class:GTK.Trace
+outputs	./dragon/attr_gtk.rb	/^  def outputs$/;"	f	class:AttrGTK
+outputs_add_dwim	./dragon/primitive.rb	/^      def outputs_add_dwim os, mark_method, primitive_name$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+outputs_mark!	./dragon/primitive.rb	/^      def outputs_mark! o, mark_method, primitive_name$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+outputs_resolve_collection	./dragon/primitive.rb	/^      def outputs_resolve_collection target$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+outputs_resolved?	./dragon/primitive.rb	/^      def outputs_resolved? o$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+pairs_to_hash	./dragon/array.rb	/^  def pairs_to_hash$/;"	f	class:Array.product
+parse	./dragon/outputs.rb	/^    def self.parse v$/;"	F	class:GTK.Sound
+parse_from_hash	./dragon/open_entity.rb	/^    def self.parse_from_hash data$/;"	F	class:GTK.OpenEntity
+parse_json	./dragon/runtime.rb	/^    def parse_json jsonstr$/;"	f	class:GTK.Runtime
+parse_json_file	./dragon/runtime.rb	/^    def parse_json_file fname$/;"	f	class:GTK.Runtime
+parse_xml	./dragon/runtime.rb	/^    def parse_xml xmlstr, stripcontent=true$/;"	f	class:GTK.Runtime
+parse_xml_file	./dragon/runtime.rb	/^    def parse_xml_file fname, stripcontent=true$/;"	f	class:GTK.Runtime
+passes	./dragon/attr_gtk.rb	/^  def passes$/;"	f	class:AttrGTK
+passes	./dragon/runtime.rb	/^    def passes$/;"	f	class:GTK.Runtime
+path	./dragon/hash.rb	/^  def path$/;"	f	class:Hash
+path	./dragon/primitive.rb	/^      def path$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+path	./dragon/primitive.rb	/^      def path$/;"	f	class:GTK.Sprite
+path=	./dragon/hash.rb	/^  def path=$/;"	f	class:Hash
+path=	./dragon/primitive.rb	/^      def path= value$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+path=	./dragon/primitive.rb	/^      def path= value$/;"	f	class:GTK.Sprite
+pause!	./dragon/runtime.rb	/^    def pause!$/;"	f	class:GTK.Runtime
+paused?	./dragon/runtime.rb	/^    def paused?$/;"	f	class:GTK.Runtime
+perc_to_one	./dragon/numeric_deprecated.rb	/^  def perc_to_one start, duration$/;"	f	class:NumericDeprecated
+perc_to_zero	./dragon/numeric_deprecated.rb	/^  def perc_to_zero start, duration$/;"	f	class:NumericDeprecated
+percentage_of	./dragon/numeric.rb	/^  def percentage_of n$/;"	f	class:Numeric
+perma_toast	./dragon/console.rb	/^    def perma_toast id = nil, messages$/;"	f	class:GTK.Console
+pin_root_values	./dragon/runtime.rb	/^    def pin_root_values$/;"	f	class:GTK.Runtime
+pin_to_30_fps?	./dragon/runtime_framerate.rb	/^    def pin_to_30_fps?$/;"	f	class:GTK.RuntimeFramerate
+play_around	./dragon/controller_config.rb	/^    def play_around args$/;"	f	class:GTK.ControllerConfig
+plus	./dragon/numeric.rb	/^  def plus i$/;"	f	class:Numeric
+point	./dragon/inputs.rb	/^    def point$/;"	f	class:GTK.Mouse
+point	./dragon/primitive.rb	/^      def point$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+point	./dragon/primitive.rb	/^      def point$/;"	f	class:GTK.Primitive.Point
+point_inside_circle	./dragon/geometry.rb	/^    def self.point_inside_circle? point, circle_center_point, radius$/;"	F	class:GTK
+point_inside_circle?	./dragon/geometry.rb	/^    def point_inside_circle? circle_center_point, radius$/;"	f	class:GTK.Geometry
+pos?	./dragon/numeric.rb	/^  def pos?$/;"	f	class:Fixnum
+pos?	./dragon/numeric.rb	/^  def pos?$/;"	f	class:Float
+position	./dragon/inputs.rb	/^    def position$/;"	f	class:GTK.Mouse
+pretty_format	./dragon/hash.rb	/^  def self.pretty_format hash$/;"	F	class:Hash
+pretty_print_exception_and_export!	./dragon/runtime.rb	/^    def pretty_print_exception_and_export! e$/;"	f	class:GTK.Runtime
+previous_part	./dragon/controller_config.rb	/^    def previous_part$/;"	f	class:GTK.ControllerConfig
+primitive_contract	./dragon/help.rb	/^    def self.primitive_contract primitive_name$/;"	F	class:GTK.Help
+primitive_marker	./dragon/attr_sprite.rb	/^  def primitive_marker$/;"	f	class:AttrSprite
+primitive_marker	./dragon/hash.rb	/^  def primitive_marker$/;"	f	class:Hash
+primitive_marker	./dragon/object.rb	/^  def primitive_marker$/;"	f	class:method_missing
+primitive_marker	./dragon/primitive.rb	/^      def primitive_marker$/;"	f	class:GTK.Border
+primitive_marker	./dragon/primitive.rb	/^      def primitive_marker$/;"	f	class:GTK.Label
+primitive_marker	./dragon/primitive.rb	/^      def primitive_marker$/;"	f	class:GTK.Line
+primitive_marker	./dragon/primitive.rb	/^      def primitive_marker$/;"	f	class:GTK.Primitive.Common
+primitive_marker	./dragon/primitive.rb	/^      def primitive_marker$/;"	f	class:GTK.Solid
+primitive_marker	./dragon/primitive.rb	/^      def primitive_marker$/;"	f	class:GTK.Sprite
+primitives	./dragon/args.rb	/^    def primitives$/;"	f	class:GTK.Args
+primitives	./dragon/outputs.rb	/^    def primitives$/;"	f	class:GTK.Outputs
+primitives	./dragon/runtime.rb	/^    def primitives pass$/;"	f	class:GTK.Runtime
+primitives=	./dragon/outputs_deprecated.rb	/^    def primitives= value$/;"	f	class:GTK.OutputsDeprecated
+print	./dragon/log.rb	/^    def self.print *args$/;"	F
+print_console_activation_help	./dragon/runtime.rb	/^    def print_console_activation_help$/;"	f	class:GTK.Runtime
+print_help_when_mouse_clicked	./dragon/runtime_c_bridge.rb	/^    def print_help_when_mouse_clicked$/;"	f	class:GTK.RuntimeCBridge
+print_summary	./dragon/tests.rb	/^    def print_summary$/;"	f
+process_inputs	./dragon/console.rb	/^    def process_inputs args$/;"	f	class:GTK.Console
+product	./dragon/array.rb	/^  def product other_array = nil$/;"	f	class:Array
+purge_class	./dragon/object.rb	/^  def purge_class symbol$/;"	f	class:Object
+puts	./dragon/kernel.rb	/^  def puts *args$/;"	f	class:Kernel
+puts	./dragon/log.rb	/^    def self.puts *args$/;"	F	class:GTK.Log
+puts_important	./dragon/log.rb	/^    def self.puts_important *args$/;"	F	class:GTK.Log
+puts_info	./dragon/log.rb	/^    def self.puts_info *args$/;"	F	class:GTK.Log
+puts_once	./dragon/log.rb	/^    def self.puts_once *ids, message$/;"	F
+puts_once_info	./dragon/log.rb	/^    def self.puts_once_info *ids, message$/;"	F
+quad	./dragon/easing.rb	/^    def self.quad x$/;"	F	class:GTK.Easing
+quart	./dragon/easing.rb	/^    def self.quart x$/;"	F	class:GTK.Easing
+queue_key_up	./dragon/runtime.rb	/^    def queue_key_up key$/;"	f	class:GTK.Runtime
+queue_music	./dragon/runtime.rb	/^    def queue_music path, repeat$/;"	f	class:GTK.Runtime
+queue_sound	./dragon/runtime.rb	/^    def queue_sound path$/;"	f	class:GTK.Runtime
+quint	./dragon/easing.rb	/^    def self.quint x$/;"	F	class:GTK.Easing
+quit!	./dragon/runtime.rb	/^    def quit!$/;"	f	class:GTK.Runtime
+quit_after_startup_eval?	./dragon/runtime.rb	/^    def quit_after_startup_eval?$/;"	f	class:GTK.Runtime
+quit_requested?	./dragon/runtime.rb	/^    def quit_requested?$/;"	f	class:GTK.Runtime
+quote	./dragon/string.rb	/^  def quote$/;"	f	class:String.wrapped_lines.indent_lines
+r	./dragon/hash.rb	/^  def r$/;"	f	class:Hash
+r	./dragon/primitive.rb	/^      def r$/;"	f	class:GTK.Color
+r	./dragon/primitive.rb	/^      def r$/;"	f	class:GTK.Label
+r	./dragon/primitive.rb	/^      def r$/;"	f	class:GTK.Sprite
+r=	./dragon/hash.rb	/^  def r= value$/;"	f	class:Hash
+r=	./dragon/primitive.rb	/^      def r= value$/;"	f	class:GTK.Color
+r=	./dragon/primitive.rb	/^      def r= value$/;"	f	class:GTK.Label
+r=	./dragon/primitive.rb	/^      def r= value$/;"	f	class:GTK.Sprite
+raise_ambigous!	./dragon/primitive.rb	/^      def raise_ambigous! m$/;"	f	class:GTK.ConversionCapabilities
+raise_conversion_for_rendering_failed	./dragon/runtime.rb	/^    def raise_conversion_for_rendering_failed p, e, name = nil$/;"	f	class:GTK.Runtime
+raise_error_with_kind_of_okay_message	./dragon/object.rb	/^  def raise_error_with_kind_of_okay_message e, name, *args$/;"	f	class:Object
+raise_immediately	./dragon/object.rb	/^  def raise_immediately e, m, *args$/;"	f	class:Object
+raise_method_missing_better_error	./dragon/object.rb	/^  def raise_method_missing_better_error name, *args, &block$/;"	f
+raise_with_caller	./dragon/object.rb	/^  def raise_with_caller e, inner_exception$/;"	f	class:Object
+rand_ratio	./dragon/numeric.rb	/^  def rand_ratio$/;"	f	class:Numeric
+rand_sign	./dragon/numeric.rb	/^  def rand_sign$/;"	f	class:Numeric
+randomize	./dragon/numeric.rb	/^  def randomize *definitions$/;"	f	class:Numeric
+rawjoystick_axis	./dragon/controller_config.rb	/^    def rawjoystick_axis jid, axis, value$/;"	f	class:GTK.ControllerConfig
+rawjoystick_axis	./dragon/runtime_c_bridge.rb	/^    def rawjoystick_axis jid, axis, value$/;"	f	class:GTK.RuntimeCBridge
+rawjoystick_button	./dragon/controller_config.rb	/^    def rawjoystick_button jid, button, pressed$/;"	f	class:GTK.ControllerConfig
+rawjoystick_button	./dragon/runtime_c_bridge.rb	/^    def rawjoystick_button jid, button, pressed$/;"	f	class:GTK.RuntimeCBridge
+rawjoystick_connected	./dragon/controller_config.rb	/^    def rawjoystick_connected jid, joystickname, guid$/;"	f	class:GTK.ControllerConfig
+rawjoystick_connected	./dragon/runtime_c_bridge.rb	/^    def rawjoystick_connected jid, joystickname, guid$/;"	f	class:GTK.RuntimeCBridge
+rawjoystick_disconnected	./dragon/controller_config.rb	/^    def rawjoystick_disconnected jid$/;"	f	class:GTK.ControllerConfig
+rawjoystick_disconnected	./dragon/runtime_c_bridge.rb	/^    def rawjoystick_disconnected jid$/;"	f	class:GTK.RuntimeCBridge
+rawjoystick_hat	./dragon/controller_config.rb	/^    def rawjoystick_hat jid, hat, value$/;"	f	class:GTK.ControllerConfig
+rawjoystick_hat	./dragon/runtime_c_bridge.rb	/^    def rawjoystick_hat jid, hat, value$/;"	f	class:GTK.RuntimeCBridge
+ray_test	./dragon/geometry.rb	/^    def self.ray_test point, line$/;"	F	class:GTK
+read_file	./dragon/runtime.rb	/^    def read_file file_name$/;"	f	class:GTK.Runtime
+ready	./dragon/runtime.rb	/^      def ready newstate$/;"	f	class:GTK.Runtime.HTTPCallbacks
+ready?	./dragon/console.rb	/^    def ready?$/;"	f	class:GTK.Console
+record_input_history	./dragon/recording.rb	/^    def record_input_history name, value_1, value_2, value_count, clear_cache = false$/;"	f	class:GTK.Recording
+record_input_history	./dragon/runtime.rb	/^    def record_input_history name, value_1, value_2, value_count, clear_cache = false$/;"	f	class:GTK.Runtime
+rect	./dragon/hash.rb	/^  def rect$/;"	f	class:Hash
+rect	./dragon/primitive.rb	/^      def rect$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+rect	./dragon/primitive.rb	/^      def rect$/;"	f	class:GTK.Rect
+rect_shift	./dragon/primitive.rb	/^      def rect_shift *args$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+rect_shift	./dragon/primitive.rb	/^      def rect_shift *args$/;"	f	class:GTK.Rect
+rect_shift_down	./dragon/primitive.rb	/^      def rect_shift_down v$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+rect_shift_down	./dragon/primitive.rb	/^      def rect_shift_down v$/;"	f	class:GTK.Rect
+rect_shift_left	./dragon/primitive.rb	/^      def rect_shift_left v$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+rect_shift_left	./dragon/primitive.rb	/^      def rect_shift_left v$/;"	f	class:GTK.Rect
+rect_shift_right	./dragon/primitive.rb	/^      def rect_shift_right v$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+rect_shift_right	./dragon/primitive.rb	/^      def rect_shift_right v$/;"	f	class:GTK.Rect
+rect_shift_up	./dragon/primitive.rb	/^      def rect_shift_up v$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+rect_shift_up	./dragon/primitive.rb	/^      def rect_shift_up v$/;"	f	class:GTK.Rect
+reject_false	./dragon/array.rb	/^  def reject_false$/;"	f	class:Array
+reject_nil	./dragon/array.rb	/^  def reject_nil$/;"	f	class:Array
+reload_complete	./dragon/runtime_c_bridge.rb	/^    def reload_complete$/;"	f	class:GTK.RuntimeCBridge
+reload_if_needed	./dragon/runtime_hotload.rb	/^    def reload_if_needed file, force = false$/;"	f	class:GTK.RuntimeHotload
+reload_ruby_file	./dragon/runtime_hotload.rb	/^    def reload_ruby_file file$/;"	f	class:GTK.RuntimeHotload
+remainder_of_divide	./dragon/numeric.rb	/^  def remainder_of_divide n$/;"	f	class:Numeric
+render	./dragon/console.rb	/^    def render args$/;"	f	class:GTK.Console
+render_basics	./dragon/controller_config.rb	/^    def render_basics args, msg, fade=255$/;"	f	class:GTK.ControllerConfig
+render_height	./dragon/runtime.rb	/^    def render_height pass$/;"	f	class:GTK.Runtime
+render_log_offset	./dragon/console.rb	/^    def render_log_offset args$/;"	f	class:GTK.Console
+render_part_highlight	./dragon/controller_config.rb	/^    def render_part_highlight args, part, alpha=255$/;"	f	class:GTK.ControllerConfig
+render_part_highlight_from_bindstr	./dragon/controller_config.rb	/^    def render_part_highlight_from_bindstr args, bindstr, alpha=255$/;"	f	class:GTK.ControllerConfig
+render_replay_mouse	./dragon/runtime.rb	/^    def render_replay_mouse$/;"	f	class:GTK.Runtime
+render_target	./dragon/args.rb	/^    def render_target name$/;"	f	class:GTK.Args
+render_width	./dragon/runtime.rb	/^    def render_width pass$/;"	f	class:GTK.Runtime
+repl	./dragon/object.rb	/^  def repl &block$/;"	f	class:method_missing
+replace_infinity	./dragon/numeric.rb	/^  def replace_infinity scalar$/;"	f	class:Float
+request_quit	./dragon/runtime.rb	/^    def request_quit$/;"	f	class:GTK.Runtime
+require	./dragon/object.rb	/^  def require file$/;"	f	class:method_missing
+require	./dragon/runtime.rb	/^    def require file$/;"	f	class:GTK.Runtime
+reserved	./dragon/outputs.rb	/^    def reserved$/;"	f	class:GTK.Outputs
+reserved=	./dragon/outputs_deprecated.rb	/^    def reserved= value$/;"	f	class:GTK.OutputsDeprecated
+reset	./dragon/runtime.rb	/^    def reset rng_override = nil, seed: seed$/;"	f	class:GTK.Runtime
+reset_framerate_calculation	./dragon/runtime_framerate.rb	/^    def reset_framerate_calculation$/;"	f	class:GTK.RuntimeFramerate
+reset_state	./dragon/runtime.rb	/^    def reset_state$/;"	f	class:GTK.Runtime
+resolve_collection	./dragon/outputs.rb	/^    def resolve_collection target$/;"	f	class:GTK.FlatArray
+resolved?	./dragon/outputs.rb	/^    def resolved? o$/;"	f	class:GTK.FlatArray
+rest	./dragon/array.rb	/^  def rest$/;"	f	class:Array.product
+right	./dragon/attr_sprite.rb	/^  def right$/;"	f	class:AttrSprite
+right	./dragon/hash.rb	/^  def right$/;"	f	class:Hash
+right	./dragon/inputs.rb	/^    def right$/;"	f	class:GTK.Controller
+right	./dragon/inputs.rb	/^    def right$/;"	f	class:GTK.Inputs
+right	./dragon/inputs.rb	/^    def right$/;"	f	class:GTK.Keyboard
+right	./dragon/inputs.rb	/^    def right; x; end$/;"	f	class:GTK.MousePoint
+right	./dragon/primitive.rb	/^      def right$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+right	./dragon/primitive.rb	/^      def right$/;"	f	class:GTK.Primitive.Point
+right	./dragon/primitive.rb	/^      def right$/;"	f	class:GTK.Rect
+right_analog_x_player_1	./dragon/runtime_c_bridge.rb	/^    def right_analog_x_player_1 value, sender = false$/;"	f	class:GTK.RuntimeCBridge
+right_analog_x_player_2	./dragon/runtime_c_bridge.rb	/^    def right_analog_x_player_2 value, sender = false$/;"	f	class:GTK.RuntimeCBridge
+right_analog_y_player_1	./dragon/runtime_c_bridge.rb	/^    def right_analog_y_player_1 value, sender = false$/;"	f	class:GTK.RuntimeCBridge
+right_analog_y_player_2	./dragon/runtime_c_bridge.rb	/^    def right_analog_y_player_2 value, sender = false$/;"	f	class:GTK.RuntimeCBridge
+right_of?	./dragon/numeric.rb	/^  def right_of? v$/;"	f	class:Numeric
+rtrim	./dragon/string.rb	/^  def rtrim$/;"	f	class:String.wrapped_lines.indent_lines
+rtrim!	./dragon/string.rb	/^  def rtrim!$/;"	f	class:String.wrapped_lines.indent_lines
+run_test	./dragon/tests.rb	/^    def run_test m$/;"	f	class:GTK.Tests
+running?	./dragon/tests.rb	/^    def running?$/;"	f	class:GTK.Tests
+s	./dragon/hash.rb	/^  def s$/;"	f	class:Hash
+s_or_default	./dragon/object.rb	/^  def s_or_default default = ''$/;"	f	class:method_missing
+sample	./dragon/array.rb	/^  def sample$/;"	f	class:Array.product
+save_history	./dragon/console.rb	/^    def save_history$/;"	f	class:GTK.Console
+save_state	./dragon/runtime.rb	/^    def save_state file_name$/;"	f	class:GTK.Runtime
+scale_rect	./dragon/geometry.rb	/^    def scale_rect percentage, *anchors$/;"	f	class:GTK.Geometry
+scale_rect	./dragon/geometry.rb	/^    def self.scale_rect rect, percentage, *anchors$/;"	F	class:GTK
+scale_rect	./dragon/primitive.rb	/^      def scale_rect percentage, *anchors$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+scale_rect_extended	./dragon/geometry.rb	/^    def scale_rect_extended percentage_x: percentage_x,$/;"	f	class:GTK.Geometry
+scale_rect_extended	./dragon/geometry.rb	/^    def self.scale_rect_extended rect,$/;"	F	class:GTK
+scale_rect_extended	./dragon/primitive.rb	/^      def scale_rect_extended *args$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+schedule_callback	./dragon/runtime.rb	/^    def schedule_callback tick_count, &callback$/;"	f	class:GTK.Runtime
+scroll_down_full	./dragon/console.rb	/^    def scroll_down_full$/;"	f	class:GTK.Console
+scroll_down_half	./dragon/console.rb	/^    def scroll_down_half$/;"	f	class:GTK.Console
+scroll_up_full	./dragon/console.rb	/^    def scroll_up_full$/;"	f	class:GTK.Console
+scroll_up_half	./dragon/console.rb	/^    def scroll_up_half$/;"	f	class:GTK.Console
+sdl_to_key	./dragon/inputs.rb	/^    def self.sdl_to_key raw_key, modifier$/;"	F	class:GTK.KeyboardKeys
+seconds	./dragon/numeric.rb	/^  def seconds$/;"	f	class:Numeric
+seed	./dragon/runtime.rb	/^    def seed$/;"	f	class:GTK.Runtime.grep_source_file
+serialize	./dragon/args.rb	/^    def serialize$/;"	f	class:GTK.Args
+serialize	./dragon/array.rb	/^  def serialize$/;"	f	class:Array.product
+serialize	./dragon/hash.rb	/^  def serialize$/;"	f	class:Hash
+serialize	./dragon/inputs.rb	/^    def serialize$/;"	f	class:GTK.Controller
+serialize	./dragon/inputs.rb	/^    def serialize$/;"	f	class:GTK.Inputs
+serialize	./dragon/inputs.rb	/^    def serialize$/;"	f	class:GTK.Keyboard
+serialize	./dragon/inputs.rb	/^    def serialize$/;"	f	class:GTK.KeyboardKeys
+serialize	./dragon/inputs.rb	/^    def serialize$/;"	f	class:GTK.Mouse
+serialize	./dragon/nil_class_false_class.rb	/^  def serialize$/;"	f	class:NilClassFalseClass
+serialize	./dragon/numeric.rb	/^  def serialize$/;"	f	class:Float
+serialize	./dragon/numeric.rb	/^  def serialize$/;"	f	class:Numeric
+serialize	./dragon/object.rb	/^  def serialize$/;"	f	class:method_missing
+serialize	./dragon/outputs.rb	/^    def serialize$/;"	f	class:GTK.Outputs
+serialize	./dragon/serialize.rb	/^  def serialize$/;"	f	class:Serialize
+set	./dragon/inputs.rb	/^    def set collection, value = true$/;"	f	class:GTK.KeyboardKeys
+set!	./dragon/open_entity.rb	/^    def set! key, value$/;"	f	class:GTK.OpenEntity
+set!	./dragon/strict_entity.rb	/^    def set! key, value$/;"	f	class:GTK.StrictEntity
+set_binding	./dragon/controller_config.rb	/^    def set_binding bindstr$/;"	f	class:GTK.ControllerConfig
+set_command	./dragon/console.rb	/^    def set_command command, show_reason = nil$/;"	f	class:GTK.Console
+set_delta_time	./dragon/runtime.rb	/^    def set_delta_time accumulator$/;"	f	class:GTK.Runtime.grep_source_file
+set_key	./dragon/runtime_c_bridge.rb	/^    def set_key raw_key, playernum, event$/;"	f	class:GTK.RuntimeCBridge
+set_rng	./dragon/runtime.rb	/^    def set_rng value$/;"	f	class:GTK.Runtime
+set_window_title	./dragon/runtime.rb	/^    def set_window_title newtitle$/;"	f	class:GTK.Runtime
+shift_down	./dragon/numeric.rb	/^  def shift_down i$/;"	f	class:Numeric
+shift_left	./dragon/numeric.rb	/^  def shift_left i$/;"	f	class:Numeric
+shift_line	./dragon/geometry.rb	/^    def self.shift_line line, x, y$/;"	F	class:GTK.Geometry
+shift_rect	./dragon/hash.rb	/^  def shift_rect dx, dy$/;"	f	class:Hash
+shift_rect	./dragon/primitive.rb	/^      def shift_rect *args$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+shift_rect	./dragon/primitive.rb	/^      def shift_rect *args$/;"	f	class:GTK.Rect
+shift_right	./dragon/numeric.rb	/^  def shift_right i$/;"	f	class:Numeric
+shift_up	./dragon/numeric.rb	/^  def shift_up i$/;"	f	class:Numeric
+should_redraw?	./dragon/runtime.rb	/^    def should_redraw?$/;"	f	class:GTK.Runtime
+should_tick?	./dragon/controller_config.rb	/^    def should_tick?$/;"	f	class:GTK.ControllerConfig
+show	./dragon/console.rb	/^    def show reason = nil$/;"	f	class:GTK.Console
+show_console	./dragon/runtime.rb	/^    def show_console reason = nil$/;"	f	class:GTK.Runtime
+sign	./dragon/numeric.rb	/^  def sign$/;"	f	class:Fixnum
+sign	./dragon/numeric.rb	/^  def sign$/;"	f	class:Float
+size_enum	./dragon/hash.rb	/^  def size_enum$/;"	f	class:Hash
+size_enum	./dragon/primitive.rb	/^      def size_enum$/;"	f	class:GTK.Label
+size_enum=	./dragon/hash.rb	/^  def size_enum= value$/;"	f	class:Hash
+size_enum=	./dragon/primitive.rb	/^      def size_enum= value$/;"	f	class:GTK.Label
+skip_tick_usr_engine?	./dragon/runtime.rb	/^    def skip_tick_usr_engine?$/;"	f	class:GTK.Runtime
+slowmo!	./dragon/runtime.rb	/^    def slowmo! factor$/;"	f	class:GTK.Runtime.grep_source_file
+solid	./dragon/hash.rb	/^  def solid$/;"	f	class:Hash
+solid	./dragon/primitive.rb	/^      def solid$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+solid_border_contract	./dragon/help.rb	/^    def self.solid_border_contract$/;"	F	class:GTK.Help
+solids	./dragon/args.rb	/^    def solids$/;"	f	class:GTK.Args
+solids	./dragon/outputs.rb	/^    def solids$/;"	f	class:GTK.Outputs
+solids	./dragon/primitive.rb	/^      def solids$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+solids=	./dragon/outputs_deprecated.rb	/^    def solids= value$/;"	f	class:GTK.OutputsDeprecated
+sounds	./dragon/runtime.rb	/^    def sounds$/;"	f	class:GTK.Runtime
+sprite	./dragon/attr_sprite.rb	/^  def sprite$/;"	f	class:AttrSprite
+sprite	./dragon/hash.rb	/^  def sprite$/;"	f	class:Hash
+sprite	./dragon/primitive.rb	/^      def sprite$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+sprite_contract	./dragon/help.rb	/^    def self.sprite_contract$/;"	F	class:GTK.Help
+sprites	./dragon/args.rb	/^    def sprites$/;"	f	class:GTK.Args
+sprites	./dragon/outputs.rb	/^    def sprites$/;"	f	class:GTK.Outputs
+sprites	./dragon/primitive.rb	/^      def sprites$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+sprites=	./dragon/outputs_deprecated.rb	/^    def sprites= value$/;"	f	class:GTK.OutputsDeprecated
+stage_replay_values	./dragon/recording.rb	/^    def stage_replay_values$/;"	f	class:GTK.Recording
+stage_replay_values	./dragon/runtime.rb	/^    def stage_replay_values$/;"	f	class:GTK.Runtime
+start	./dragon/tests.rb	/^    def start$/;"	f	class:GTK.Tests
+start!	./dragon/runtime.rb	/^    def start!$/;"	f	class:GTK.Runtime
+start_recording	./dragon/recording.rb	/^    def start_recording seed_number$/;"	f	class:GTK.Recording
+start_recording	./dragon/runtime.rb	/^    def start_recording seed_value$/;"	f	class:GTK.Runtime
+start_replay	./dragon/recording.rb	/^    def start_replay file_name$/;"	f	class:GTK.Recording
+start_replay	./dragon/runtime.rb	/^    def start_replay file_name = nil$/;"	f	class:GTK.Runtime
+start_with?	./dragon/symbol.rb	/^  def start_with? value$/;"	f	class:Symbol
+state	./dragon/args.rb	/^    def state$/;"	f	class:GTK.Args
+state	./dragon/attr_gtk.rb	/^  def state$/;"	f	class:AttrGTK
+state=	./dragon/args.rb	/^    def state= value$/;"	f	class:GTK.Args
+static_background_color	./dragon/outputs.rb	/^    def static_background_color$/;"	f	class:GTK.Outputs
+static_background_color	./dragon/runtime_c_bridge.rb	/^    def static_background_color$/;"	f	class:GTK.RuntimeCBridge
+static_borders	./dragon/args.rb	/^    def static_borders$/;"	f	class:GTK.Args
+static_borders	./dragon/outputs.rb	/^    def static_borders$/;"	f	class:GTK.Outputs
+static_borders=	./dragon/outputs_deprecated.rb	/^    def static_borders= value$/;"	f	class:GTK.OutputsDeprecated
+static_labels	./dragon/args.rb	/^    def static_labels$/;"	f	class:GTK.Args
+static_labels	./dragon/outputs.rb	/^    def static_labels$/;"	f	class:GTK.Outputs
+static_labels=	./dragon/outputs_deprecated.rb	/^    def static_labels= value$/;"	f	class:GTK.OutputsDeprecated
+static_lines	./dragon/args.rb	/^    def static_lines$/;"	f	class:GTK.Args
+static_lines	./dragon/outputs.rb	/^    def static_lines$/;"	f	class:GTK.Outputs
+static_lines=	./dragon/outputs_deprecated.rb	/^    def static_lines= value$/;"	f	class:GTK.OutputsDeprecated
+static_primitives	./dragon/args.rb	/^    def static_primitives$/;"	f	class:GTK.Args
+static_primitives	./dragon/outputs.rb	/^    def static_primitives$/;"	f	class:GTK.Outputs
+static_primitives=	./dragon/outputs_deprecated.rb	/^    def static_primitives= value$/;"	f	class:GTK.OutputsDeprecated
+static_reserved	./dragon/outputs.rb	/^    def static_reserved$/;"	f	class:GTK.Outputs
+static_reserved=	./dragon/outputs_deprecated.rb	/^    def static_reserved= value$/;"	f	class:GTK.OutputsDeprecated
+static_solids	./dragon/args.rb	/^    def static_solids$/;"	f	class:GTK.Args
+static_solids	./dragon/outputs.rb	/^    def static_solids$/;"	f	class:GTK.Outputs
+static_solids=	./dragon/outputs_deprecated.rb	/^    def static_solids= value$/;"	f	class:GTK.OutputsDeprecated
+static_sprites	./dragon/args.rb	/^    def static_sprites$/;"	f	class:GTK.Args
+static_sprites	./dragon/outputs.rb	/^    def static_sprites$/;"	f	class:GTK.Outputs
+static_sprites=	./dragon/outputs_deprecated.rb	/^    def static_sprites= value$/;"	f	class:GTK.OutputsDeprecated
+stop_music	./dragon/runtime.rb	/^    def stop_music$/;"	f	class:GTK.Runtime
+stop_recording	./dragon/recording.rb	/^    def stop_recording file_name$/;"	f	class:GTK.Recording
+stop_recording	./dragon/runtime.rb	/^    def stop_recording file_name = nil$/;"	f	class:GTK.Runtime
+stop_replay	./dragon/recording.rb	/^    def stop_replay$/;"	f	class:GTK.Recording
+stop_replay	./dragon/runtime.rb	/^    def stop_replay$/;"	f	class:GTK.Runtime
+strict_entities	./dragon/entity.rb	/^    def self.strict_entities$/;"	F	class:GTK.Entity
+subdued_markers	./dragon/console.rb	/^    def subdued_markers$/;"	f	class:GTK.Console
+subtract	./dragon/numeric.rb	/^  def subtract i$/;"	f	class:Numeric
+suppress_framerate_warning	./dragon/runtime_deprecated.rb	/^    def suppress_framerate_warning$/;"	f	class:GTK.RuntimeDeprecated
+suppress_framerate_warning=	./dragon/runtime_deprecated.rb	/^    def suppress_framerate_warning= value$/;"	f	class:GTK.RuntimeDeprecated
+suppress_print_help_when_mouse_clicked	./dragon/runtime_deprecated.rb	/^    def suppress_print_help_when_mouse_clicked$/;"	f	class:GTK.RuntimeDeprecated
+suppress_print_help_when_mouse_clicked=	./dragon/runtime_deprecated.rb	/^    def suppress_print_help_when_mouse_clicked= value$/;"	f	class:GTK.RuntimeDeprecated
+target	./dragon/runtime.rb	/^    def target pass$/;"	f	class:GTK.Runtime
+ten	./dragon/numeric.rb	/^  def ten$/;"	f	class:Numeric
+test_game_over	./dragon/tests.rb	/^def test_game_over args, assert$/;"	f	class:GTK.log_no_tests_found
+test_methods	./dragon/tests.rb	/^    def test_methods$/;"	f	class:GTK.Tests
+test_methods_focused	./dragon/tests.rb	/^    def test_methods_focused$/;"	f	class:GTK.Tests
+test_signature_invalid_exception?	./dragon/tests.rb	/^    def test_signature_invalid_exception? e, m$/;"	f	class:GTK
+tests	./dragon/runtime.rb	/^    def tests$/;"	f	class:GTK.Runtime.grep_source_file
+text	./dragon/hash.rb	/^  def text$/;"	f	class:Hash
+text	./dragon/primitive.rb	/^      def text$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+text	./dragon/primitive.rb	/^      def text$/;"	f	class:GTK.Label
+text=	./dragon/hash.rb	/^  def text= value$/;"	f	class:Hash
+text=	./dragon/primitive.rb	/^      def text= value$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+text=	./dragon/primitive.rb	/^      def text= value$/;"	f	class:GTK.Label
+text_font	./dragon/runtime.rb	/^    def text_font$/;"	f	class:GTK.Runtime
+textinput	./dragon/runtime_c_bridge.rb	/^    def textinput str$/;"	f	class:GTK.RuntimeCBridge
+tick	./dragon/console.rb	/^    def tick args$/;"	f	class:GTK.Console
+tick	./dragon/controller_config.rb	/^    def tick args$/;"	f	class:GTK.ControllerConfig
+tick	./dragon/outputs.rb	/^    def tick$/;"	f	class:GTK.Outputs
+tick	./dragon/recording.rb	/^    def tick$/;"	f	class:GTK.Recording
+tick	./dragon/runtime.rb	/^    def tick$/;"	f	class:GTK.Runtime
+tick_console	./dragon/runtime.rb	/^    def tick_console$/;"	f	class:GTK.Runtime
+tick_core	./dragon/runtime.rb	/^    def tick_core$/;"	f	class:GTK.Runtime
+tick_count	./dragon/args.rb	/^    def tick_count$/;"	f	class:GTK.Args
+tick_count	./dragon/kernel.rb	/^  def self.tick_count$/;"	F	class:Kernel
+tick_count	./dragon/kernel.rb	/^  def self.tick_count= value$/;"	F	class:Kernel
+tick_count=	./dragon/args.rb	/^    def tick_count= value$/;"	f	class:GTK.Args
+tick_gtk_engine_after	./dragon/runtime.rb	/^    def tick_gtk_engine_after$/;"	f	class:GTK.Runtime
+tick_gtk_engine_before	./dragon/runtime.rb	/^    def tick_gtk_engine_before$/;"	f	class:GTK.Runtime
+tick_notification	./dragon/runtime.rb	/^    def tick_notification$/;"	f	class:GTK.Runtime
+tick_runtime	./dragon/runtime.rb	/^    def tick_runtime$/;"	f	class:GTK.Runtime
+tick_usr_engine	./dragon/runtime.rb	/^    def tick_usr_engine$/;"	f	class:GTK.Runtime
+tile_h	./dragon/hash.rb	/^  def tile_h$/;"	f	class:Hash
+tile_h	./dragon/primitive.rb	/^      def tile_h$/;"	f	class:GTK.Sprite
+tile_h=	./dragon/hash.rb	/^  def tile_h= value$/;"	f	class:Hash
+tile_h=	./dragon/primitive.rb	/^      def tile_h= value$/;"	f	class:GTK.Sprite
+tile_w	./dragon/hash.rb	/^  def tile_w$/;"	f	class:Hash
+tile_w	./dragon/primitive.rb	/^      def tile_w$/;"	f	class:GTK.Sprite
+tile_w=	./dragon/hash.rb	/^  def tile_w= value$/;"	f	class:Hash
+tile_w=	./dragon/primitive.rb	/^      def tile_w= value$/;"	f	class:GTK.Sprite
+tile_x	./dragon/hash.rb	/^  def tile_x$/;"	f	class:Hash
+tile_x	./dragon/primitive.rb	/^      def tile_x$/;"	f	class:GTK.Sprite
+tile_x=	./dragon/hash.rb	/^  def tile_x= value$/;"	f	class:Hash
+tile_x=	./dragon/primitive.rb	/^      def tile_x= value$/;"	f	class:GTK.Sprite
+tile_y	./dragon/hash.rb	/^  def tile_y$/;"	f	class:Hash
+tile_y	./dragon/primitive.rb	/^      def tile_y$/;"	f	class:GTK.Sprite
+tile_y=	./dragon/hash.rb	/^  def tile_y= value$/;"	f	class:Hash
+tile_y=	./dragon/primitive.rb	/^      def tile_y= value$/;"	f	class:GTK.Sprite
+to_a_pairs	./dragon/array.rb	/^  def to_a_pairs$/;"	f	class:Array.product
+to_byte	./dragon/numeric.rb	/^  def to_byte$/;"	f	class:Numeric
+to_degrees	./dragon/numeric.rb	/^  def to_degrees$/;"	f	class:Numeric
+to_hash	./dragon/hash.rb	/^  def to_hash$/;"	f	class:Hash
+to_hash	./dragon/primitive.rb	/^      def to_hash$/;"	f	class:GTK.Border
+to_hash	./dragon/primitive.rb	/^      def to_hash$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+to_hash	./dragon/primitive.rb	/^      def to_hash$/;"	f	class:GTK.Label
+to_hash	./dragon/primitive.rb	/^      def to_hash$/;"	f	class:GTK.Line
+to_hash	./dragon/primitive.rb	/^      def to_hash$/;"	f	class:GTK.Primitive.Point
+to_hash	./dragon/primitive.rb	/^      def to_hash$/;"	f	class:GTK.Rect
+to_hash	./dragon/primitive.rb	/^      def to_hash$/;"	f	class:GTK.Solid
+to_hash	./dragon/primitive.rb	/^      def to_hash$/;"	f	class:GTK.Sprite
+to_hash	./dragon/strict_entity.rb	/^    def to_hash$/;"	f	class:GTK.StrictEntity
+to_radians	./dragon/numeric.rb	/^  def to_radians$/;"	f	class:Numeric
+to_s	./dragon/class.rb	/^  def to_s$/;"	f	class:Class
+to_s	./dragon/inputs.rb	/^    def to_s$/;"	f	class:GTK.Keyboard
+to_s	./dragon/object.rb	/^  def to_s$/;"	f	class:method_missing
+to_s	./dragon/open_entity.rb	/^    def to_s$/;"	f	class:GTK.OpenEntity
+to_s	./dragon/strict_entity.rb	/^    def to_s$/;"	f	class:GTK.StrictEntity
+to_square	./dragon/geometry.rb	/^    def self.to_square size, x, y, anchor_x = 0.5, anchor_y = nil$/;"	F	class:GTK
+to_square	./dragon/numeric.rb	/^  def to_square x, y, anchor_x = 0.5, anchor_y = nil$/;"	f	class:Numeric
+toast	./dragon/console.rb	/^    def toast id = nil, *messages$/;"	f	class:GTK.Console
+toast	./dragon/console.rb	/^  def toast id, *messages$/;"	f	class:GTK.Console.toast_extended
+toast	./dragon/runtime.rb	/^    def toast id, message$/;"	f	class:GTK.Runtime
+toast_extended	./dragon/console.rb	/^    def toast_extended id = nil, duration = nil, *messages$/;"	f	class:GTK.Console
+toggle	./dragon/console.rb	/^    def toggle$/;"	f	class:GTK.Console
+top	./dragon/attr_sprite.rb	/^  def top$/;"	f	class:AttrSprite
+top	./dragon/hash.rb	/^  def top$/;"	f	class:Hash
+top	./dragon/inputs.rb	/^    def top; y; end$/;"	f	class:GTK.MousePoint
+top	./dragon/primitive.rb	/^      def top$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+top	./dragon/primitive.rb	/^      def top$/;"	f	class:GTK.Primitive.Point
+top	./dragon/primitive.rb	/^      def top$/;"	f	class:GTK.Rect
+towards	./dragon/numeric.rb	/^  def towards target, magnitude$/;"	f	class:Numeric
+trace	./dragon/trace.rb	/^    def self.trace! instance = nil$/;"	F	class:GTK.Trace
+trace!	./dragon/object.rb	/^  def trace! instance = nil$/;"	f	class:method_missing
+trace_method_name_for	./dragon/trace.rb	/^    def self.trace_method_name_for m$/;"	F	class:GTK.Trace
+traced_classes	./dragon/trace.rb	/^    def self.traced_classes$/;"	F	class:GTK.Trace
+transform_angle	./dragon/grid.rb	/^    def transform_angle angle$/;"	f	class:GTK.Grid
+transform_rect	./dragon/grid.rb	/^    def transform_rect x, y, w, h$/;"	f	class:GTK.Grid
+transform_x	./dragon/grid.rb	/^    def transform_x x$/;"	f	class:GTK.Grid
+transform_y	./dragon/grid.rb	/^    def transform_y y$/;"	f	class:GTK.Grid
+trim	./dragon/string.rb	/^  def trim$/;"	f	class:String.wrapped_lines.indent_lines
+trim!	./dragon/string.rb	/^  def trim!$/;"	f	class:String.wrapped_lines.indent_lines
+true!	./dragon/assert.rb	/^    def true! value, message = nil$/;"	f	class:GTK.Assert
+truthy_keys	./dragon/inputs.rb	/^    def truthy_keys$/;"	f	class:GTK.ControllerKeys
+truthy_keys	./dragon/inputs.rb	/^    def truthy_keys$/;"	f	class:GTK.KeyboardKeys
+two	./dragon/numeric.rb	/^  def two$/;"	f	class:Numeric
+unassign_method_missing	./dragon/nil_class_false_class.rb	/^  def unassign_method_missing$/;"	f	class:NilClassFalseClass
+unassign_method_missing_and_raise	./dragon/nil_class_false_class.rb	/^  def unassign_method_missing_and_raise error$/;"	f	class:NilClassFalseClass
+unpause!	./dragon/runtime.rb	/^    def unpause!$/;"	f	class:GTK.Runtime
+untrace_classes	./dragon/trace.rb	/^    def self.untrace_classes!$/;"	F	class:GTK.Trace
+untransform_x	./dragon/grid.rb	/^    def untransform_x x$/;"	f	class:GTK.Grid
+untransform_y	./dragon/grid.rb	/^    def untransform_y y$/;"	f	class:GTK.Grid
+up	./dragon/inputs.rb	/^    def up$/;"	f	class:GTK.Controller
+up	./dragon/inputs.rb	/^    def up$/;"	f	class:GTK.Inputs
+up	./dragon/inputs.rb	/^    def up$/;"	f	class:GTK.Keyboard
+up	./dragon/inputs.rb	/^    def up$/;"	f	class:GTK.Mouse
+up_down	./dragon/directional_input_helper_methods.rb	/^    def up_down$/;"	f	class:GTK.DirectionalInputHelperMethods
+up_down	./dragon/inputs.rb	/^    def up_down$/;"	f	class:GTK.Controller
+up_down	./dragon/inputs.rb	/^    def up_down$/;"	f	class:GTK.Inputs
+up_down	./dragon/inputs.rb	/^    def up_down$/;"	f	class:GTK.KeyboardKeys
+update_mouse_buttons	./dragon/runtime_c_bridge.rb	/^    def update_mouse_buttons newbuttons$/;"	f	class:GTK.RuntimeCBridge
+utf_8_char	./dragon/inputs.rb	/^    def self.utf_8_char raw_key$/;"	F	class:GTK.KeyboardKeys
+vector	./dragon/numeric.rb	/^  def vector max_value = 1$/;"	f	class:Numeric
+vector_x	./dragon/numeric.rb	/^  def vector_x max_value = 1$/;"	f	class:Numeric
+vector_y	./dragon/numeric.rb	/^  def vector_y max_value = 1$/;"	f	class:Numeric
+visible?	./dragon/console.rb	/^    def visible?$/;"	f	class:GTK.Console
+w	./dragon/grid.rb	/^    def w$/;"	f	class:GTK.Grid
+w	./dragon/hash.rb	/^  def w$/;"	f	class:Hash
+w	./dragon/inputs.rb	/^    def w; 0; end$/;"	f	class:GTK.MousePoint
+w	./dragon/primitive.rb	/^      def w$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+w	./dragon/primitive.rb	/^      def w$/;"	f	class:GTK.Label
+w	./dragon/primitive.rb	/^      def w$/;"	f	class:GTK.Line
+w	./dragon/primitive.rb	/^      def w$/;"	f	class:GTK.Primitive.Point
+w	./dragon/primitive.rb	/^      def w$/;"	f	class:GTK.Rect
+w=	./dragon/hash.rb	/^  def w= value$/;"	f	class:Hash
+w=	./dragon/primitive.rb	/^      def w= value$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+w=	./dragon/primitive.rb	/^      def w= value$/;"	f	class:GTK.Rect
+w_half	./dragon/grid.rb	/^    def w_half$/;"	f	class:GTK.Grid
+w_half	./dragon/primitive.rb	/^      def w_half$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+w_half	./dragon/primitive_deprecated.rb	/^      def w_half$/;"	f	class:GTK.Primitive.RectDeprecated
+width	./dragon/primitive.rb	/^      def width$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+width_half	./dragon/primitive.rb	/^      def width_half$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+width_half	./dragon/primitive_deprecated.rb	/^      def width_half$/;"	f	class:GTK.Primitive.RectDeprecated
+window_keyboard_focus_changed	./dragon/runtime_c_bridge.rb	/^    def window_keyboard_focus_changed gained$/;"	f	class:GTK.RuntimeCBridge
+window_mouse_focus_changed	./dragon/runtime_c_bridge.rb	/^    def window_mouse_focus_changed gained$/;"	f	class:GTK.RuntimeCBridge
+with_meta	./dragon/object.rb	/^  def self.with_meta o, meta_value$/;"	F	class:ObjectMetadata
+with_meta	./dragon/open_entity.rb	/^    def with_meta o, meta$/;"	f	class:GTK.OpenEntity
+without_ending_bang	./dragon/string.rb	/^  def without_ending_bang$/;"	f	class:String
+without_ending_bang	./dragon/symbol.rb	/^  def without_ending_bang$/;"	f	class:Symbol
+wrap	./dragon/string.rb	/^  def wrap length$/;"	f	class:String.wrapped_lines
+wrapped_lines	./dragon/string.rb	/^  def wrapped_lines length$/;"	f	class:String
+wrapped_lines_recur	./dragon/string.rb	/^  def wrapped_lines_recur word, rest, length, aggregate$/;"	f	class:String
+write_file	./dragon/runtime.rb	/^    def write_file file_name, text$/;"	f	class:GTK.Runtime
+write_line	./dragon/console.rb	/^    def write_line args, left, y, str, errorinfo, headerinfo, txtinfo$/;"	f	class:GTK.Console
+write_to_log_and_print	./dragon/log.rb	/^    def self.write_to_log_and_print *args$/;"	F	class:GTK.Log
+write_to_log_and_puts	./dragon/log.rb	/^    def self.write_to_log_and_puts *args$/;"	F	class:GTK.Log
+x	./dragon/hash.rb	/^  def x$/;"	f	class:Hash
+x	./dragon/primitive.rb	/^      def x$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+x	./dragon/primitive.rb	/^      def x$/;"	f	class:GTK.Line
+x	./dragon/primitive.rb	/^      def x$/;"	f	class:GTK.Primitive.Point
+x1	./dragon/attr_sprite.rb	/^  def x1$/;"	f	class:AttrSprite
+x1	./dragon/hash.rb	/^  def x1$/;"	f	class:Hash
+x1	./dragon/primitive.rb	/^      def x1$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+x1	./dragon/primitive.rb	/^      def x1$/;"	f	class:GTK.Primitive.Point
+x1=	./dragon/attr_sprite.rb	/^  def x1= value$/;"	f	class:AttrSprite
+x1=	./dragon/hash.rb	/^  def x1= value$/;"	f	class:Hash
+x1=	./dragon/primitive.rb	/^      def x1= value$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+x1=	./dragon/primitive.rb	/^      def x1= value$/;"	f	class:GTK.Primitive.Point
+x2	./dragon/hash.rb	/^  def x2$/;"	f	class:Hash
+x2	./dragon/primitive.rb	/^      def x2$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+x2	./dragon/primitive.rb	/^      def x2$/;"	f	class:GTK.Line
+x2	./dragon/primitive.rb	/^      def x2$/;"	f	class:GTK.Rect
+x2=	./dragon/hash.rb	/^  def x2= value$/;"	f	class:Hash
+x2=	./dragon/primitive.rb	/^      def x2= value$/;"	f	class:GTK.Line
+x=	./dragon/hash.rb	/^  def x= value$/;"	f	class:Hash
+x=	./dragon/primitive.rb	/^      def x= value$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+x=	./dragon/primitive.rb	/^      def x= value$/;"	f	class:GTK.Line
+x=	./dragon/primitive.rb	/^      def x= value$/;"	f	class:GTK.Primitive.Point
+x_vector	./dragon/numeric.rb	/^  def x_vector max_value = 1$/;"	f	class:Numeric
+xrepl	./dragon/object.rb	/^  def xrepl$/;"	f	class:method_missing
+y	./dragon/hash.rb	/^  def y$/;"	f	class:Hash
+y	./dragon/primitive.rb	/^      def y$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+y	./dragon/primitive.rb	/^      def y$/;"	f	class:GTK.Line
+y	./dragon/primitive.rb	/^      def y$/;"	f	class:GTK.Primitive.Point
+y1	./dragon/attr_sprite.rb	/^  def y1$/;"	f	class:AttrSprite
+y1	./dragon/hash.rb	/^  def y1$/;"	f	class:Hash
+y1	./dragon/primitive.rb	/^      def y1$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+y1	./dragon/primitive.rb	/^      def y1$/;"	f	class:GTK.Primitive.Point
+y1=	./dragon/attr_sprite.rb	/^  def y1= value$/;"	f	class:AttrSprite
+y1=	./dragon/hash.rb	/^  def y1= value$/;"	f	class:Hash
+y1=	./dragon/primitive.rb	/^      def y1= value$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+y1=	./dragon/primitive.rb	/^      def y1= value$/;"	f	class:GTK.Primitive.Point
+y2	./dragon/hash.rb	/^  def y2$/;"	f	class:Hash
+y2	./dragon/primitive.rb	/^      def y2$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+y2	./dragon/primitive.rb	/^      def y2$/;"	f	class:GTK.Line
+y2	./dragon/primitive.rb	/^      def y2$/;"	f	class:GTK.Rect
+y2=	./dragon/hash.rb	/^  def y2= value$/;"	f	class:Hash
+y2=	./dragon/primitive.rb	/^      def y2= value$/;"	f	class:GTK.Line
+y=	./dragon/hash.rb	/^  def y= value$/;"	f	class:Hash
+y=	./dragon/primitive.rb	/^      def y= value$/;"	f	class:GTK.ConversionCapabilities.mark_assert!
+y=	./dragon/primitive.rb	/^      def y= value$/;"	f	class:GTK.Line
+y=	./dragon/primitive.rb	/^      def y= value$/;"	f	class:GTK.Primitive.Point
+y_vector	./dragon/numeric.rb	/^  def y_vector max_value = 1$/;"	f	class:Numeric
+zero	./dragon/numeric.rb	/^  def zero$/;"	f	class:Numeric
+zero?	./dragon/numeric.rb	/^  def zero?$/;"	f	class:Numeric
